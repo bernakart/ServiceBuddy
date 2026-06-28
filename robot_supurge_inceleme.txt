@@ -1,0 +1,370 @@
+--- BÖLÜM: 1 ---
+Robot Süpürge Kullanma Kılavuzu RS 9034 HM TR
+
+
+--- BÖLÜM: 2 ---
+Lütfen önce bu kılavuzu okuyun! Değerli Müşterimiz, Arçelik ürününü tercih ettiğiniz için teşekkür ederiz. Yüksek kalite ve teknoloji ile üretilmiş olan ürününüzün size en iyi verimi sunmasını istiyoruz. Bunun için, bu kılavuzun tamamını ve verilen diğer belgeleri ürünü kullanmadan önce dikkatle okuyun ve bir başvuru kaynağı olarak saklayın. Ürünü başka birisine verirseniz, kullanma kılavuzunu da birlikte verin. Kullanma kılavuzunda belirtilen tüm bilgi ve uyarıları dikkate alarak talimatlara uyun.
+ Sembollerin anlamları Bu kullanma kılavuzunun çeşitli kısımlarında aşağıdaki semboller kullanılmıştır:
+ C Cihazın kullanımıyla ilgili önemli bilgiler ve faydalı tavsiyeler. A UYARI: Can ve mal güvenliğiyle ilgili tehlikeli durumlar konusunda uyarılar. Elektrik çarpmasına karşı koruma sınıfı.
+
+
+--- BÖLÜM: 4 ---
+1. Önemli güvenlik ve çevre talimatları
+Bu bölümde, yaralanma ya da maddi hasar tehlikelerini önlemeye yardımcı olacak güvenlik talimatları yer almaktadır.
+Bu talimatlara uyulmaması halinde her türlü garanti geçersiz hale gelir.
+1.1 Genel güvenlik 
+* Bu cihaz, uluslararası güvenlik standartlarına uygundur.
+* Bu cihaz, denetim sağlanması veya cihazın güvenli bir şekilde kullanılması ve karşılaşılan tehlikelerin anlaşılması ile ilgili bilgi verilmesi durumunda, yaşları 8 ve üzeri olan çocuklar ve fiziksel, duyusal veya akli yetenekleri azalmış veya tecrübe ve bilgi eksikliği olan kişiler tarafından kullanılabilir. Çocuklar cihaz ile oynamamalıdır.Temizleme ve kullanıcı bakımı gözetimsiz çocuklar tarafından yapılmamalıdır.
+* Elektrik kablosu veya cihaz hasarlıysa kullanmayın. Yetkili servise başvurun.
+* Şebeke güç kaynağınız cihazın tip etiketinde belirtilen bilgilere uygun olmalıdır.
+* Cihazı uzatma kablosuyla kullanmayın.
+* Elektrik kablosunun hasar görmesini önlemek için sıkışmasını, kıvrılmasını veya keskin kenarlara sürtünmesini engelleyin.
+* Cihaz elektriğe bağlıyken elleriniz nemli veya ıslaksa, cihazın fişine dokunmayın.
+* Cihazın fişini prizden çıkartırken kablosundan çekmeyin.
+* Yanıcı maddeleri süpürmeyin ve sigara külünü süpürürken soğumuş olmasına dikkat edin.
+* Su veya diğer sıvı maddeleri süpürmeyin.
+* Cihazı yağış, nem ve ısı kaynaklarından koruyun.
+* Cihazı patlayıcı veya yanıcı ortamların ve maddelerin bulunduğu yerde veya yakınında kullanmayın.
+* Temizlik ve bakım öncesi cihazın fişini prizden çekin.
+
+
+--- BÖLÜM: 5 ---
+* Cihazı veya cihazın elektrik kablosunu temizlemek için suya batırmayın.
+* Cihazı parçalarına ayırmayın.
+* Sadece orijinal parçaları veya üretici tarafından tavsiye edilen parçaları kullanın.
+* Yetkili servisten temin edeceğiniz orijinal filtre kullanın.
+* Filtrenin tıkanmasını ve motorun hasar görmesini önlemek için çimento, alçı ve sıkıştırılmış kağıt gibi parçacıkları temizlemeyin.
+* Cihazı yalnızca cihazla birlikte verilen adaptörle kullanın.
+* Cihazı filtreleri olmadan kullanmayın, zarar görebilir.
+* Ambalaj malzemelerini saklıyorsanız çocukların ulaşamayacağı bir yerde muhafaza edin.
+* Bu cihaz, güvenliklerinden sorumlu bir kişi tarafından denetim altında tutulmadıkları ya da cihazın kullanımına ilişkin olarak bilgilendirilmedikleri sürece, çocuklar da dâhil olmak üzere fiziksel, duyusal veya zihinsel becerileri yetersiz olan ya da bilgi ve tecrübe eksikliği bulunan kişiler tarafından kullanılmak üzere tasarlanmamıştır.
+* Çocuklar, cihazla oynamamaları için gözetim altında tutulmalıdır.
+* Temizlik veya bakım işlemlerinden önce adaptör prizden çekilmeli, pil takımı cihazdan çıkarılmalıdır.
+* Herhangi bir tehlikenin ortaya çıkmasını önlemek amacıyla, adaptör, hasar görmesi durumunda üretici, üreticinin yetkili temsilcisi veya benzeri bir ehliyetli kişi tarafından değiştirilmelidir.
+* Elektrikli süpürgeyi kullanırken parmaklarınızı, saçlarınızı ve bol giysilerinizi hareketli parçalardan ve açıklıklardan uzak tutun.
+* Pil elden çıkarılmadan önce cihazdan çıkarılmalıdır. 
+* Pil çıkartılırken, cihazın güç kaynağı bağlantısı kesilmelidir; Lütfen kullanılmış pilleri yerel yasa ve düzenlemelere uygun şekilde atın.
+* Bu cihazdaki piller yalnızca yetkili servis tarafından değiştirilebilir.
+
+
+--- BÖLÜM: 6 ---
+UYARI: Pili şarj etmek için yalnızca bu cihazla birlikte verilen GQ24-190150-AG çıkarılabilir besleme ünitesini kullanın.
+* Farkı türlerde piller veya yeni ve eski piller bir arada kullanılmamalıdır.
+* Piller, kutupları doğru yerde olacak şekilde yerleştirilmelidir.
+* Besleme terminallerine kısa devre yaptırılmamalıdır.
+* Yalnızca 18650-4S2PM26 pil ile kullanılmalıdır.
+* Cihaz, denetim altında tutulmadıkları veya kendilerine ilgili talimatlar verilmediği sürece çocuklar ile fiziksel, algısal ya da zihinsel becerileri kısıtlı olan veya bilgi ve tecrübe eksikliği olan kişiler tarafından kullanılamaz.
+* Çocuklar, cihazla oynamamaları için gözetim altında tutulmalıdır.
+* Cihaza ağırlık yüklemeyin.
+* Cihazı masa veya sandalye gibi yüksek yerlerde çalıştırmayın.
+
+1.2 AEEE yönetmeliğine uyum ve atık ürünün elden çıkarılması: 
+Bu ürün T.C. Çevre ve Şehircilik Bakanlığı tarafından yayımlanan “Atık elektrikli ve Elektronik eşyaların Kontrolü Yönetmeliği’nde belirtilen zararlı ve yasaklı maddeleri içermez. AEEE Yönetmeliğine uygundur.
+Bu ürün, geri dönüşümlü ve tekrar kullanılabilir nitelikteki yüksek kaliteli parça ve malzemelerden üretilmiştir. Bu nedenle, ürünü, hizmet ömrünün sonunda evsel veya diğer atıklarla birlikte atmayın.
+Elektrikli ve elektronik cihazların geri dönüşümü için bir toplama noktasına götürün. Bu toplama noktalarını bölgenizdeki yerel yönetime sorun.
+Kullanılmış ürünleri geri kazanıma vererek çevrenin ve doğal kaynakların korunmasına yardımcı olun.
+1.3 Ambalaj bilgisi:
+Ürünün ambalajı, Ulusal Mevzuatımız gereği geri dönüştürülebilir malzemelerden üretilmiştir.
+Ambalaj atığını evsel veya diğer atıklarla birlikte atmayın, yerel otoritenin belirttiği ambalaj toplama noktalarına atın.
+1.4 Atık piller:
+Bitmiş pilleri, yerel kanun ve yönetmeliklere uygun şekilde atılmasını sağlayın. Pil ve ambalajın üzerindeki sembol, ürünle birlikte teslim edilen pilin evsel atık olarak değerlendirilmemesi gerektiğini belirtmektedir. Bazı yerlerde sembol, kimyasal bir sembol ile birleştirilerek kullanılmış olabilir. Piller % 0,0005’den fazla civa veya %
+0,004’den fazla kurşun içeriyorsa, civa için Hg, kurşun için Pb kimyasal sembolü işaretin altına eklenir. Pillerin doğru şekilde atılmasını sağlayarak, pillerin uygun olmayan şekilde atılması neticesinde çevre ve insan sağlığında meydana gelebilecek potansiyel zararların engellenmesine katkıda bulunmuş olacaksınız.
+
+
+--- BÖLÜM: 9 ---
+2.2 Teknik veriler
+Adaptör Girişi : 100-240V, 50/60Hz, 1.0A
+Adaptör çıkışı : DC19V, 1.5A
+Batarya :  Li-ion batarya: 14,4V 5200mAH
+Şarj süresi : 5-6 saat
+Çalışma süresi  : 150 dk
+Toz haznesi kapasitesi : 0,45L
+Su deposu kapasitesi : 0,18L 
+Robot tuş tipi  : Dokunmatik ekran  
+2.4G WiFi frekans aralığı : 2412-2472 MHz 
+2.4G WiFi maksimum RF çıkış gücü : 20dBm 
+RF maruz kalma bilgileri: İzin verilen maksimum maruz kalma seviyesi, cihaz ile insan vücudu arasındaki 20 cm’lik bir mesafeye göre hesaplanır. RF maruz kalma şartına uyum sağlamak için, cihaz ile insan arasında 20 cm’lik bir mesafe bırakılmalıdır.
+Teknik ve tasarım değişiklikleri yapma hakkı saklıdır.
+Üretici: Dong Guan City GangQi Electronic Co., Ltd 
+Model Kimliği: GQ24-190150-AG 
+Giriş Voltajı: 100-240V~ 
+Giriş Frekansı: 50/60Hz 
+Giriş Akımı: 1.0A 
+Çıkış Voltajı: 19.0V 
+Çıkış Akımı: 1.5A 
+Çıkış Gücü: 28.5W 
+Ortalama aktif verimlilik: 89.03% 
+Düşük yükte verimlilik (%10): 85.59% 
+Yüksüz güç: 0.075W 
+ 
+
+
+--- BÖLÜM: 10 ---
+3. Kullanım
+Bu cihaz, kılavuzda belirtilen kullanım yönlendirmelerine uygun bir biçimde, uzaktan kumanda veya mobil uygulama üzerinden yönetilir. Mobil uygulama ile kullanım için Google Play ve App Store üzerinden “Beko Robot” uygulamasını indirin. 
+3.1 Kullanım amacı 
+Cihaz ev tipi kullanım için tasarlanmıştır, sanayi tipi kullanım için uygun değildir.
+3.2 Cihazın şarj edilmesi 
+3.2.1 Adaptör ile şarj etme 
+İlk kullanımda cihazı tamamen şarj edin. 
+Cihazın tamamen şarj olması 5-6 saate kadar sürer.
+1- Cihazın güç düğmesine basın.  
+2- Şarj adaptörünü prize takın ve şarj adaptörünün ucunu şarj yuvasına takın.
+
+
+--- BÖLÜM: 11 ---
+3.2.2 Şarj ünitesi ile şarj etme 
+ 1- Şarj ünitesinin kapağını açın. 
+ 2- Şarj adaptörünün ince ucunu yuvaya takın.
+ 3- Kabloyu boşluğa sabitleyin. Şarj ünitesinin kapağını kapatın.
+ 4- Şarj ünitesini duvara yerleştirin.Şarj ünitesine 1-2 metre mesafedki engelleri kaldırın. Şarj adaptörünün ucunu şarj ünitesine takın.
+ 5- Kumanda üzerinde “HOME” tuşuna basın veya uygulama üzerinden kontrol edin.
+ 6- Cihaz, şarj ünitesini otomatik arar.
+ 7- Gösterge ledi mavi renkte yanıp sönüyorsa, cihaz şarj olmaktadır. Gösterge ledi yanıp sönmeyi durdurur ve mavi renkte sabit kalırsa, cihazın şarj işlemi tamamlanır.   
+UYARI: Gösterge ledi bekleme durumundayken kırmızı renkte yavaşça yanıp sönüyorsa, şarj seviyesi düşüktür. 
+UYARI: Gösterge ledi çalışma durumundayken kırmızı renkte yavaşça yanıp sönüyorsa, şarj seviyesi düşüktür ve cihaz şarj olmak için otomatik olarak şarj ünitesini arar.
+
+--- BÖLÜM: 12 ---
+3.3 Çalıştırma 
+3.3.1 Otomatik temizlik 
+ 1- Cihaz üzerindeki “AUTO” düğmesine basın. 
+ 2- Veya; Uzaktan kumanda ya da uygulama üzerinden “Başlat/durdur” düğmesine basın.
+ 3- Cihaz otomatik temizlik moduna geçer. 
+
+
+--- BÖLÜM: 13 ---
+3.3.2 Maksimum temizlik 
+1- Cihaz üzerinde “Auto” düğmesine iki kez basın.
+2- Veya; Uzaktan kumanda üzerinden “Başlat/durdur” düğmesine iki kez basınya da uygulama üzerinden kontrol edin.
+3- Cihaz maksimum temizlik moduna geçer. Süpürgenin emiş gücünü arttırır ve ana fırçanın devrini yükseltir fakat tekerlek hızını yavaşlatır.
+ 
+3.3.3 Sessiz temizlik 
+Uzaktan kumandadaki “MODE” düğmesine basın, cihaz sessiz temizlik moduna geçer.
+
+
+--- BÖLÜM: 14 ---
+3.3.4 Alan temizliği 
+1- Uzaktan kumandadaki “MODE” düğmesine basın veya uygulama üzerinden gerekli ayarlamayı yapın.
+2- Cihaz, 2m*2m’lik belirli bir alanı temizleme moduna geçer. 
+
+3.3.5 Programlı temizlik 
+1- Kumanda üzerinden “PLAN” tuşuna basıp ardından “CLK” ile zaman ayarı yapılır. 
+
+3.4 Manyetik şerit
+Gitmek istemediğiniz bölgelerin önüne şerit çekebilirsiniz ve robot oradan geçmez.
+
+
+--- BÖLÜM: 15 --- 
+3.5 Değiştirilebilir başlık 
+Değiştirilebilir başlık, iri taneli tozlar, evcil hayvan tüyü, saç gibi kirlerin temizlenmesi için kullanılır.
+1- Ana fırça grubunu gösterildiği şekilde çıkarın.
+2- Değiştirilebilir başlığı takın.
+
+3.6 Paspasın kullanılması 
+1- Paspas aparatını paspas ünitesine takın.
+2- Paspas ünitesini cihazın  tabanına takın.
+3- Su haznesi üzerindeki mandala bastırarak su haznesini çıkarın. 
+4- Su haznesine musluk suyu ekleyin ve lastik tabayı takın.
+5 -Su haznesini yerine takın.
+
+
+--- BÖLÜM: 16 ---
+4. Temizlik ve bakım 
+Temizlik yapmadan önce cihazı kapatın ve fişini prizden çekin.
+ UYARI: Cihazı temizlemek için kesinlikle benzin, solvent, aşındırıcı temizleyiciler, metal nesneler veya sert fırçalar kullanmayın. 
+4.1 Toz haznesi ve filtrelerin temizlenmesi 
+ Filtrelerin kullanım ömrü tamamladığında, deforme olduğunda veya bir nedenden değiştirilmesi gerektiğinde çağrı merkezimizi arayarak yenisini sipariş edebilirsiniz.
+ HEPA filtreyi yıkamayın. HEPA filtre için, maksimum performansı elde etmek için her temizlik sonrası fırça ile temizleyin. HEPA filtresi değiştirilebilir bir aksesuardır. HEPA filtrenin ömrü yaklaşık 4 aydır.
+ Islanmış filtreler performans kaybına neden olacağı için yenisi ile değiştirin.
+ 1- Gövde kapağını açmak için ok ile gösterilen noktalardan parmaklarınız yardımıyla kaldırın.
+ 2- Toz haznesini sapından tutarak çıkarın. 
+ 3- HEPA filtreyi çıkarın. 
+ 4- Toz haznesini boşaltın. 
+ 5- Giriş filtresini çıkarın.
+ 6- Giriş filtresini ve toz haznesini akan suyun altında yıkayabilirsiniz.
+ 7- HEPA filtreyi toz haznesi üzerindeki temizlik fırçasıyla temizleyin.
+ 8- Giriş filtresini ve HEPA filtreyi toz haznesi içindeki yerlerine takın ve toz haznesini cihaza yerleştirin.
+ 
+4.2 Sensör ve tekerleklerin temizlenmesi 
+ Düzenli olarak üzerinde biriken toz miktarına göre temizleme yapın.
+ 1- Sensör ve tekerlekleri ürünle birlikte verilen fırçalar ile veya yumuşak bir fiber bezle temizleyin.
+ 2- Şarj ünitesi üzerindeki şarj kontaklarını ürünle birlikte verilen fırçalar veya yumuşak bir fiber bezle temizleyin.
+ 3- Cihazın üzerindeki şarj kontaklarını ürünle birlikte verilen fırçalar veya yumuşak bir fiber bezle temizleyin.  
+
+
+--- BÖLÜM: 18 ---
+4.3 Fırçalar ve süpürge emiş ağzının temizlenmesi 
+1- Yan fırçaların hasar görüp görmediğini kontrol edin, yabancı maddeleri yan fırçadan temizleyin.  Yan fırçayı bez yardımı ile veya ürünle birlikte verilen fırçalar (21-22) ile temizleyin. Bükülmüş veya deforme olmuş yan fırçaları 5 saniye süreyle ılık suya koyun veya fırçaları değiştirin.
+2- Ana fırça grubunu ürünle birlikte verilen fırçalar ile veya yumuşak bir fiber bezle temizleyin.
+3- Değiştirilebilir başlığı ürünle birlikte verilen fırçalar ile veya yumuşak bir fiber bezle temizleyin.   
+
+4.4 Saklama 
+* Cihazı uzun süre kullanmayı düşünmüyorsanız, dikkatli bir şekilde saklayın.
+* Cihazın fişini çekin. 
+* Cihazı, çocukların ulaşamayacağı bir yerde muhafaza edin.
+* Pili uzun süre boyunca kullanmayacaksanız zarar görmeyeceği serin ve kuru bir yerde, yarı dolu halde muhafaza edin. Tamamen şarj etmeyin veya boşaltmayın.
+* Pili iletken olmayan bir malzemede saklayın ve pilin metalle doğrudan temas etmesine izin vermeyin. Bu, pilin zarar görmesine sebep olur. 4.5 Taşıma ve nakliye 
+
+4.5 Taşıma ve nakliye 
+* Taşıma ve nakliye sırasında cihazı orijinal ambalajı ile birlikte taşıyın. Cihazın ambalajı, cihazı fiziksel hasarlara karşı koruyacaktır. 
+* Cihazın veya ambalajının üzerine ağır cisimler koymayın. Cihaz zarar görebilir.
+* Cihazın düşürülmesi durumunda cihaz çalışmayabilir veya kalıcı hasar oluşabilir.
+
+
+--- BÖLÜM: 19 ---
+5. Cihaz bildirimleri 
+[Sesli_uyarı_içeriği]: Low battery, pls recharge in time | [Durum_açıklaması_ve_çözüm]: Robotun şarj seviyesi düşüktür ve gösterge lambası kırmızı renkte yavaşça  yanıp sönmektedir, robotun gösterge ışığı mavi renk olana kadar şarj olmasına  izin verin.
+[Sesli_uyarı_içeriği]: Start charging | [Durum_açıklaması_ve_çözüm]: Şarj ünitesine bağlayın veya güç kablosunu doğrudan şarj yuvasına takın, gösterge ledi mavi renkte yavaşça yanıp söner 
+[Sesli_uyarı_içeriği]: Robot is power off, Please switch  power on | [Durum_açıklaması_ve_çözüm]: Robotun güç düğmesi kapalı, açın ve şarj edin.
+[Sesli_uyarı_içeriği]: Robot is suspending, pls. put it on flat floor | [Durum_açıklaması_ve_çözüm]: Robot durdurulmuştur. Muhtemelen yüksek bir boşluğa gelmiş veya tekerlekleri havada asılı kalmış olabilir. Bu durumda led yanıp söner. Robotu  şat düz bir zemine koyun. 
+[Sesli_uyarı_içeriği]: Cliff sensor does not work pls check it on time. | [Durum_açıklaması_ve_çözüm]: Yükseklik (düşme) sensörü toz ile kaplanmış olabilir. Kontrol edin ve gerekiyorsa temizleyin.  
+[Sesli_uyarı_içeriği]: Wheels got stuck, pls handle in time | [Durum_açıklaması_ve_çözüm]: Tekerlekler sıkışmış olabilir, kontrol edin. Gösterge ledi kırmızı renkte hızlı bir şekilde yanıp sönüyor. 
+[Sesli_uyarı_içeriği]: Side brushes got stuck, pls handle in time | [Durum_açıklaması_ve_çözüm]: Yan fırçalar sıkışmış olabilir, kontrol edin. Gösterge ledi kırmızı renkte  hızlı bir şekilde yanıp sönüyor.  
+[Sesli_uyarı_içeriği]: Main brush got stuck, pls handle in time | [Durum_açıklaması_ve_çözüm]: Ana fırça sıkışmış olabilir, kontrol edin. Gösterge ledi kırmızı renkte hızlı bir  şekilde yanıp sönüyor.  
+[Sesli_uyarı_içeriği]: Lidar gots covered, pls handle in time  | [Durum_açıklaması_ve_çözüm]: Lidar sensörü toz ile kaplanmış olabilir, kontrol edin ve gerekiyorsa temizleyin. 
+[Sesli_uyarı_içeriği]: Press the volume button short | [Durum_açıklaması_ve_çözüm]: Ses seviyesi düğmesine basın, gösterge ledi mavi renkte sabit şekilde yanar.
+[Sesli_uyarı_içeriği]: Schedule success | [Durum_açıklaması_ve_çözüm]: Programlama başarılı ve gösterge ledi mavi renkte sabit şekilde yanar.
+[Sesli_uyarı_içeriği]: Schedule cancel | [Durum_açıklaması_ve_çözüm]: Programlama başarısız veya iptal edildi, gösterge ledi mavi renkte sabit Schedule cancel şekilde yanar.
+[Sesli_uyarı_içeriği]: Bumper error | [Durum_açıklaması_ve_çözüm]: 1. Tampon sıkışmış olabilir, gösterge ledi kırmızı renkte hızlı bir şekilde yanıp sönüyor. 2. Tamponun üzeri kapatılmış veya toz ile kaplanmış olabilir, gösterge ledi kırmızı renkte hızlı bir şekilde yanıp sönüyor.
+[Sesli_uyarı_içeriği]: Start cleaning | [Durum_açıklaması_ve_çözüm]: Temizlik başlıyor. Gösterge ledi mavi renkte sabit yanar.
+[Sesli_uyarı_içeriği]: Complete cleaning | [Durum_açıklaması_ve_çözüm]:Robot temizliği tamamladı. Gösterge ledi mavi renkte sabit yanmaya devam 
+eder. 
+[Sesli_uyarı_içeriği]: Beeping | [Durum_açıklaması_ve_çözüm]: Cihaz açıldı. Gösterge ledi mavi renkte sabit yanmaya devam eder.
+[Sesli_uyarı_içeriği]: Pls install the dust bin | [Durum_açıklaması_ve_çözüm]: Lütfen toz haznesini yerleştirin. Gösterge ledi kırmızı renkte hızlı bir şekilde yanıp söner. 
+[Sesli_uyarı_içeriği]: WiFi Reset | [Durum_açıklaması_ve_çözüm]: WiFi resetlendi. 
+[Sesli_uyarı_içeriği]: WiFi connecting, please wait. | [Durum_açıklaması_ve_çözüm]: WiFi’a bağlanılıyor. Gösterge ledi mavi renkte yavaşça yanıp söner.
+[Sesli_uyarı_içeriği]: WiFi Connected | [Durum_açıklaması_ve_çözüm]: WiFi;’a bağlandı. Gösterge ledi mavi renkte sabit şekilde yanmaya devam eder.
+[Sesli_uyarı_içeriği]: Pls clean dusts of the laser | [Durum_açıklaması_ve_çözüm]: Lazer sensörü temizleyin. Gösterge ledi kırmızı renkte hızlı bir şekilde yanıp  söner.
+
+
+--- BÖLÜM: 21 ---
+6. Sorun giderme 
+[Sorun]: Robot doğrudan şarj hatası | [Olası_neden]: Şarj adaptörü bağlantısı hatalı olabilir, robotun güç düğmesi kapalıdır, robotun tabanı veya şarj ünitesi tozla kaplı olabilir. | [Çözüm_önerileri]: Şarj adaptörü ucunun yuvaya takılı olduğundan emin olun, güç düğmesine basarak açın, Hem robot hem de şarj  ünitesinin üzerindeki şarj kontaklarını kuru bir bezle temizleyin.
+[Sorun]: Otomatik şarj hatası | [Olası_neden]: Şarj ünitesi konumu yanlış | [Çözüm_önerileri]: Şarj ünitesini fişe takın, şarj ünitesini birkaç odanın kesişim yerine yerleştirin, şarj ünitesine sağdan veya soldan 1 metre ve ön taraftan 2 metre mesafedeki engelleri kaldırın.    
+[Sorun]: Robotun engelle karşılaşması | [Olası_neden]: Robot kablolara takılmış olabilir | [Çözüm_önerileri]: Robot takıldığı yerden kaçmaya çalışacaktır, başarısız olması durumunda lütfen  robota yardım edin. Daha iyi performans için kabloları yerden kaldırın.
+[Sorun]: Robotun temizlik işlemini tamamlamadan şarj ünitesine geri dönmesi | [Olası_neden]: Düşük şarj seviyesi durumunda, otomatik şarj eder | [Çözüm_önerileri]: Robot temizlik işleminde kaldığı yeri hatırlayacak ve şarjı tamamlanınca temizliğe devam  edecektir. 
+[Sorun]: Programlama hatası | [Olası_neden]: Programlama iptal edilmiş olabilir, robot kapalı olabilir  | [Çözüm_önerileri]: Programlamayı sıfırlayın, robotu açın.
+[Sorun]: Uzaktan kumanda hatası | [Olası_neden]: Uzaktan kumandadaki pil seviyesi düşük, robot kapalı veya şarj seviyesi düşük, robotun etrafında başka kızılötesi kumanda mevcut, kumanda kapsama alanının dışında | [Çözüm_önerileri]: Uzaktan kumandanın pilini değiştirin, robotu açın ve şarj edin, başka kızılötesi kumandaların yakınında kullanmaktan kaçının, 5 metre mesafe içinde kumanda ile kontrol edin.
+   
+  
+
+
+--- BÖLÜM: 22 ---
+Üretici Firma Adı     : Arçelik A.Ş. 
+Üretici Firma Adresi  : Karaağaç Cad.No:2-6 Sütlüce 34445 İstanbul TURKIYE 
+Üretici Firma İletişim Bilgileri : Telefon +90 212 314 3434 & Faks +90 212 314 3463 www.arcelikas.com   
+Üretici Firma Yetkili Kişisi : Arif Zafer ÖZARSLAN  
+Arçelik A.Ş. olarak,  
+ 
+Aşağıda markası ve model adı belirtilen ürün ve/veya ürünlerin, bu belgede listelenen elektrikli ve elektronik 
+cihazlara ait yönetmelik, tebliğ ve standartlara uygun şekilde tasarlanarak aşağıdaki adreste üretildiğini ve 
+piyasaya arz edildiğini beyan ederiz.  
+Ürün Cinsi    : Robot Elektrikli Süpürge 
+Marka Adı    : Arçelik 
+Pazarlama Kodu   : RS 9034 HM  
+Adres : Bona Robot Enterprise Limited, RM 1802B Fortress Tower 250 KING’S ROAD 
+NORTH POINT HK 
+Bu uygunluk beyanı yalnızca imalatçının sorumluluğu altında düzenlenir. 
+
+ 
+Yönetmelik ve tebliğler:   
+• 2014/30/EU  EMC directive 
+• 2014/35/EU  Low-Voltage directive  
+• 2011/65/EU Framework directive on the restriction of the use of certain hazardous substance in electrical and 
+electronic equipment   
+• 1275/2008/EC Erp directive 
+• 2014/53/EU On the harmonisation of the laws of the Member States relating to the making available on the 
+market of radio equipment and repealing Directive 1999/5/EC 
+Standartlar:  
+ 
+• EN 55014-1:2017  
+• EN 55014-2:2015 
+• EN IEC 61000-3-2:2019 
+• EN 61000-3-3:2013+A1:2019 
+• EN 301 489-1 V2.2.3 (2019-11), EN 301 489-17 V3.2.3 (2020-07) Final Draft 
+• ETSI EN 300 328 V2.2.2 (2019-07) 
+• EN 60335-1:2012+A11:2014+A13:2017+A1:2019+A14:2019+A2:2019 
+• EN 60335-2-2:2010+A11:2012+A1:2013 
+• EN 62233:2008, EN 62311:2008 
+ 
+İstanbul, TÜRKİYE, 05/09/2020 
+Yetkili kişinin adı, soyadı, ünvanı ve imzası: Arif Zafer ÖZARSLAN, Kalite Güvence Yöneticisi
+
+
+--- BÖLÜM: 25 ---
+Müșteri Hizmetleri 
+Müșteri Memnuniyeti Politikası 
+* Müșterilerimizin istek ve önerilerini her kanaldan karșılamaktan mutluluk duyarız.
+ Kanallarımız:  Çağrı Merkezimiz: 0850 210 0 888 
+(Sabit telefonlardan veya cep telefonlarından
+alan kodu çevirmeden arayın*) 
+* Diğer Numaramız: 0216 585 8 888- Çağrı Merkezimiz haftanın 7 günü 24 saat hizmet 
+vermektedir.- Çağrı Merkezimiz ile yaptığınız görüșmeler iletișim 
+hizmeti aldığınız operatör firma tarafından sizin için 
+tanımlanan tarifeye göre ücretlendirilir.- Sabit veya cep telefonlarınızdan alan kodu 
+tușlamadan çağrı merkezi numaramızı arayarak 
+ürününüz ile ilgili arzu ettiğiniz hizmeti talep 
+edebilirsiniz.
+* Whatsapp Numaramız: 0544 444 0 888
+* Faks Numaramız: 0216-423-2353
+* Web Adresimiz:www.arcelik.com.tr
+* e-posta Adresimiz:- musteri.hizmetleri@arcelik.com.tr
+*Sosyal Medya Hesaplarımız:-https://www.instagram.com/arcelik/-https://twitter.com/arcelik-https://www.facebook.com/arcelik/-https://www.youtube.com/user/tvarcelik
+*Posta Adresimiz:-Arçelik A.Ș. Karaağaç Caddesi No:2-6,
+34445, Sütlüce / İSTANBUL
+*Bayilerimiz,-https://www.arcelik.com.tr/arcelik-bayileri
+*Yetkili Servislerimiz,-https://www.arcelik.com.tr/yetkili-servisler
+- Tüm yetkili servis istasyonu bilgilerimiz, Ticaret 
+Bakanlığı tarafından olușturulan “Servis Bilgi 
+Sistemi”nde (www.servis.gov.tr) yer almaktadır.- Yedek parça malzemeleri yetkili servislerimizden
+temin edilebilir.
+Müșteri Bașvurusu
+Hizmet talebinin değerlendirilmes
+* Müșterilerimizden iletilen istek ve önerilerin Arçelik’e ulaștığı bilgisini, müșteri profili ayrımı yapılmaksızın kendilerine 24 saat içinde veririz.
+ 
+* Müșteri Hizmetleri sürecimiz: Müșterilerimizin istek ve önerilerini; *İzlenebilir, raporlanabilir, șeffaf ve güvenli tek bir bilgi havuzunda toplarız.
+ *Yasal düzenlemelere uygun, objektif, adil ve gizlilik içinde ele alır ve değerlendiririz.
+ *Bu geri bildirimleri süreçlerimizin daha mükemmel hale getirilmesinde kullanırız.
+ 
+* Arçelik olarak, mükemmel müșteri deneyimini yașatmayı ana ilke olarak kabul eder, müșteri odaklı bir yaklașım benimseriz. 
+* Bütün süreçlerimizi yönetim sistemi ile entegre ederek birbirini kontrol eden bir yapı geliștirilmesini sağlarız. Yönetim hedeşerini de bu sistem üzerinden besleriz. Așağıdaki önerilere uymanızı rica ederiz. 
+* Ürününüzü aldığınızda Garanti belgesini Yetkili Satıcınıza onaylattırınız.
+ 
+* Ürününüzü kullanma kılavuzu esaslarına göre kullanınız.
+ 
+* Ürününüz ile ilgili hizmet talebiniz olduğunda yukarıdaki telefon numaralarından Çağrı Merkezimize bașvurunuz. 
+* Hizmet için gelen teknisyene “teknisyen kimlik kartı”nı sorunuz.
+ 
+* İșiniz bittiğinde Yetkili servis teknisyeninden “Hizmet Fiși” istemeyi unutmayınız.
+ alacağınız “Hizmet Fiși” , ilerde ürününüzde meydana gelebilecek herhangi bir sorunda size yarar sağlayacaktır.
+
+
+--- BÖLÜM: 26 ---
+Hizmet talebinin değerlendirilmesi 
+1- Müșteri Bașvurusu: Web sitesi - Çağrı merkezi 0850 210 0 888 - Yetkili Servis - musteri.hizmetleri@arcelik.com - Yetkili Satıcı - Faks 0216 423 23 53 
+2- Bașvuru kaydı: Bașvuru Konusu Müșteri Adı, Soyadı Müșteri Telefonu Müșteri Adresi 
+3- Hizmet talebinin alınması
+- Hizmet talebi analizi 
+- Hizmet hakkında müșterinin bilgilendirilmesi (Keșif,nakliye,montaj,bilgi,onarım,değișim vb.) 
+- Hizmet hakkında gerekli ișlemin gerçekleștirilmesi 
+4- Müșteri memnuniyetinin alınması 
+- Memnun ise bașvuru kaydı kapatılıp, bilgilerin saklanır
+- Memnun değil ise hizmet talebinin alınması adımına geri dönülür
+
+
+--- BÖLÜM: 27 ---
+Bu kılavuzu okumadan ürününüzü çalıştırmayınız. Ürününüz ile ilgili garanti şartları, kullanımı ve sorun giderme yöntemleri kılavuzda yer almaktadır.
+ Uygun Kullanım ve Garanti ile İlgili Dikkat Edilmesi Gereken Hususlar; Aşağıda belirtilen sorunların giderilmesi ücret karşılığında yapılır. Bu durumlar için garanti şartları uygulanmaz; 1. Kullanım hatalarından kaynaklanan hasar ve arızalar, 2. Malın tüketiciye tesliminden sonraki yükleme, boşaltma, taşıma vb. sırasında oluşan hasar ve arızalar, 3. Malın kullanıldığı yerin elektrik (priz, gerilim, topraklama vb.), su (su basıncı, musluk vb.), doğalgaz, telefon, internet vb. şebekesi ve/veya altyapısı (gider, zemin, ortam vb.) kaynaklı meydana gelen hasar ve arızalar, 4. Doğa olayları ve yangın, su baskını vb. kaynaklı meydana gelen hasar ve arızalar, 5. Malın tanıtma ve kullanma kılavuzlarında yer alan hususlara aykırı kullanılmasından kaynaklanan hasar ve arızalar, 6. Malın, 6502 sayılı Tüketicinin Korunması Hakkındaki Kanununda tarif edilen şekli ile ticari veya mesleki amaçlarla kullanımı durumunda ortaya çıkan hasar ve arızalar, 7. Mala yetkisiz kişiler tarafından bakım, onarım veya başka bir nedenle müdahale edilmesi Durumlarında mala verilmiş garanti sona erecektir. Garanti uygulaması sırasında değiştirilen malın garanti süresi, satın alınan malın kalan garanti süresi ile sınırlıdır. Ürününüz Arçelik A.Ş adına Guangdong BONA Robot Corporation Limited (building A, B, C) No.30 Haogang Avenue, Dagang Town, Nansha District Guangzhou 511470 Guangdong P.R. China tarafından üretilmiştir. Menşei : P.R.C.
+
+
+--- BÖLÜM: 28 ---
+ROBOT SÜPÜRGE GARANTİ BELGESİ GARANTİ ŞARTLARI 1) Garanti süresi, malın teslim tarihinden itibaren başlar ve 2 yıldır.
+ 2) Malın tanıtma ve kullanma kılavuzunda gösterildiği şekilde kullanılması ve Arçelik A.Ş.’nin yetkili kıldığı servis çalışanları dışındaki şahıslar tarafından bakım, onarım veya başka bir nedenle müdahale edilmemiş olması şartıyla, malın bütün parçaları dahil olmak üzere tamamını; malzeme, işçilik ve üretim hatalarına karşı malın teslim tarihinden itibaren yukarıda belirtilen süre kadar garanti eder.
+ 3) Malın ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 11 inci maddesinde yer alan; a- Sözleşmeden dönme, c- Ücretsiz onarılmasını isteme, b- Satış bedelinden indirim isteme, ç- Satılanın ayıpsız bir misli ile değiştirilmesini isteme, haklarından birini kullanabilir.
+ 4) Tüketicinin bu haklardan ücretsiz onarım hakkını seçmesi durumunda satıcı; işçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında hiçbir ücret talep etmeksizin malın onarımını yapmak veya yaptırmakla yükümlüdür. Tüketici ücretsiz onarım hakkını üretici veya ithalatçıya karşı da kullanabilir. Satıcı, üretici ve ithalatçı tüketicinin bu hakkını kullanmasından müteselsilen sorumludur.
+ 5) Tüketicinin, ücretsiz onarım hakkını kullanması halinde malın; -Garanti süresi içinde tekrar arızalanması, -Tamiri için gereken azami sürenin aşılması, -Tamirinin mümkün olmadığının, yetkili servis istasyonu, satıcı, üretici yada ithalatçı tarafından bir raporla belirlenmesi durumlarında; tüketici malın bedel iadesini, ayıp oranında bedel indirimini veya imkân varsa malın ayıpsız misli ile değiştirilmesini satıcıdan talep edebilir.
+ Satıcı, tüketicinin talebini reddedemez. Bu talebin yerine getirilmemesi durumunda satıcı, üretici ile ithalatçı müsteselsilen sorumludur.
+ 6) İlgili mevzuatlarda belirlenen kullanım ömrü süresince malın azami tamir süresi 20 iş gününü, geçemez. Bu süre, garanti süresi içerisinde mala ilişkin arızanın yetkili servis istasyonuna veya satıcıya bildirimi tarihinde, garanti süresi dışında ise malın yetkili servis istasyonuna teslim tarihinden itibaren başlar. Garanti kapsamı içerisindeki malın arızasının 10 iş günü içerisinde giderilememesi halinde, üretici veya ithalatçı; malın tamiri tamamlanıncaya kadar, benzer özelliklere sahip başka bir malı tüketicinin kullanımına tahsis etmek zorundadır. Benzer özelliklere sahip başka bir malın tüketici tarafından istenmemesi halinde üretici veya ithalatçılar bu yükümlülükten kurtulur. Malın garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir.
+ 7) Malın kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan hasar ve arızalar garanti kapsamı dışındadır.
+ 8) Tüketici, garantiden doğan haklarının kullanılması ile ilgili olarak çıkabilecek uyuşmazlıklarda yerleşim yerinin bulunduğu veya tüketici işleminin yapıldığı yerdeki Tüketici Hakem Heyetine veya Tüketici Mahkemesine başvurabilir.
+ 9) Satıcı tarafından bu Garanti Belgesinin verilmemesi durumunda tüketici, Ticaret Bakanlığı Tüketicinin Korunması ve ve Piyasa Gözetimi Genel Müdürlüğüne başvurabilir. Üretici veya İthalatçı Firmanın; Malın; Ünvanı: Arçelik A.Ş. Markası: Arçelik Adresi: Arçelik A.Ş. Karaağaç Caddesi No:2-6, Cinsi: Robot Süpürge 34445, Sütlüce / İSTANBUL Modeli: RS 9034 HM Telefonu: (0-216) 585 8 888 Bandrol ve Seri No: Faks: (0-216) 423 23 53 Garanti Süresi: 2 YIL web adresi: www.arcelik.com.tr Azami Tamir Süresi: 20 İş günü Satıcı Firmanın: Unvanı: Fatura Tarih ve Sayısı: Adresi: Teslim Tarihi ve Yeri: Telefonu: Yetkilinin İmzası: Faks: Firmanın Kaşesi: e-posta Bu bölümü, ürünü aldığınız Yetkili Satıcı imzalayacak ve kaşeleyecektir.

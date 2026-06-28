@@ -1,0 +1,17 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+redis
+requests
+streamlit
+langchain
+langchain-chroma
+langchain-ollama
+langchain-huggingface
+chromadb
+sentence-transformers
+easyocr
+opencv-python-headless
+pillow
+numpy

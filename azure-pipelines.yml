@@ -1,0 +1,50 @@
+trigger:
+  branches:
+    include:
+      - main
+      - master
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+variables:
+  projectName: 'servicebuddy'
+
+steps:
+  - checkout: self
+
+  - script: |
+      echo "ServiceBuddy CI Pipeline başlatıldı."
+      echo "Çalışma klasörü:"
+      pwd
+      echo "Dosyalar:"
+      ls -la
+    displayName: "Proje dosyalarını listele"
+
+  - script: |
+      python --version
+      python -m py_compile app.py
+      python -m py_compile streamlit_app.py
+      python -m py_compile embedding.py
+      python -m py_compile llm_manager.py
+      python -m py_compile memory_manager.py
+      python -m py_compile router.py
+      python -m py_compile vision_manager.py
+    displayName: "Python sözdizimi kontrolü"
+
+  - script: |
+      test -f Dockerfile
+      test -f docker-compose.yml
+      test -f requirements.txt
+      echo "Gerekli dosyalar mevcut."
+    displayName: "Gerekli proje dosyalarını kontrol et"
+
+  - script: |
+      docker --version
+      docker compose version
+      docker compose -p $(projectName) config
+    displayName: "Docker Compose yapılandırmasını kontrol et"
+
+  - script: |
+      echo "CI kontrolü başarıyla tamamlandı."
+    displayName: "Pipeline sonucu"

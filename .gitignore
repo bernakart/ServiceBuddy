@@ -1,0 +1,16 @@
+@'
+.venv/
+__pycache__/
+*.pyc
+
+uploads/
+*.log
+
+.vscode/
+
+modeller/
+kilavuzlar.db/
+
+*.bin
+*.safetensors
+'@ | Set-Content -Encoding UTF8 .gitignore

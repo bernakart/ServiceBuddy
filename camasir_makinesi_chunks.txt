@@ -1,0 +1,993 @@
+=== camasir_makinesi_inceleme.txt CHUNKS ANALİZ RAPORU ===
+Parça Sayısı: 75
+==================================================
+
+--- PARÇA 1 (Karakter Sayısı: 1167) ---
+BÖLÜM: Çamaşır Makinesi Kullanma Kılavuzu
+7103 D
+
+
+
+
+BÖLÜM: Lütfen önce bu kılavuzu okuyun!
+Değerli Müşterimiz, Arçelik ürününü tercih ettiğiniz için teşekkür ederiz. Yüksek kalite ve teknoloji ile üretilmiş olan ürününüzün size en iyi verimi sunmasını istiyoruz. Bunun için, bu kılavuzun tamamını ve verilen diğer belgeleri ürünü kullanmadan önce dikkatle okuyun ve bir başvuru kaynağı olarak saklayın. Ürünü başka birisine verirseniz, kullanma kılavuzunu da birlikte verin.
+Kullanma kılavuzunda belirtilen tüm bilgi ve uyarıları dikkate alarak talimatlara uyun.
+Bu kullanma kılavuzunun başka modeller için de geçerli olabileceğini unutmayın. Modeller arasındaki farklar kılavuzda açık bir şekilde belirtilmiştir.
+Semboller ve açıklamaları Kullanma kılavuzunda şu semboller yer almaktadır:
+Önemli bilgiler veya kullanımla ilgili faydalı ipuçları.
+Can ve mal açısından tehlikeli durumlara karşı uyarı.
+Elektrik çarpmasına karşı uyarı.
+Geri dönüştürülebilir malzeme.
+Ambalaj atığını evsel veya diğer atıklarla birlikte atmayın, yerel otoritenin belirttiği ambalaj toplama noktalarına atın.
+Bu ürün, çevreye saygılı modern tesislerde doğaya zarar vermeden üretilmiştir.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 2 (Karakter Sayısı: 1139) ---
+BÖLÜM 1: Genel güvenlik talimatları
+Bu bölümde, yaralanma ya da maddi hasar tehlikelerini önlemeye yardımcı olacak güvenlik talimatları yer almaktadır. Bu talimatlara uyulmaması halinde her türlü garanti geçersiz hale gelir.
+1.1 Can ve mal güvenliği
+* Ürünü halı kaplı zemin üzerine yerleştirmeyin. Alttan hava alamayacağı için elektrikli parçaları aşırı ısınır. Bu durum ürünün arızalanmasına neden olur.
+* Ürün kullanımda değilse fişini çekin.
+* Kurulum ve tamir işlemlerini her zaman Yetkili Servise yaptırın. Yetkili olmayan kişiler tarafından yapılan işlemler nedeniyle doğabilecek zararlardan üretici firma sorumlu tutulamaz.
+* Su şebekesi ve gider hortumu güvenli bir biçimde sabitlenmiş ve hasarsız durumda olmalıdır. Aksi durumda su kaçağı riski vardır.
+* Ürünün içinde hala su varken kesinlikle yükleme kapağını açmayın ya da filtreyi sökmeyin. Su basması ve sıcak su yüzünden yaralanma tehlikesi ortaya çıkar.
+* Kilitli yükleme kapağını zorla açmaya çalışmayın. Yıkama bittikten birkaç dakika sonra kapak açılabilir duruma gelecektir. Yükleme kapağını açmak için zorlamanız durumunda, kapak ve kilit mekanizması hasar görebilir.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 3 (Karakter Sayısı: 181) ---
+* Yalnızca otomatik çamaşır makinelerine uygun deterjanlar, yumuşatıcılar ve katkı maddeleri kullanın.
+* Tekstil ürünlerinin etiketindeki ve deterjan ambalajındaki talimatlara uyun.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 4 (Karakter Sayısı: 1085) ---
+1.2 Çocuk güvenliği
+* Bu ürün, ürünün güvenli bir şekilde kullanımı ve tehlikeleri hakkında nezaret edildikleri veya eğitim verildikleri sürece 8 yaş ve üstü çocuklar ile fiziksel, duyusal veya zihinsel yetenekleri tam gelişmemiş veya tecrübe ve bilgi eksiği bulunan insanlar tarafından kullanılabilir.
+Çocuklar cihaz ile oynamamalıdır. Temizleme ve kullanıcı bakım işlemleri kendilerine nezaret eden biri olmadığı sürece çocuklar tarafından gerçekleştirilmemelidir. Sürekli gözetim altında olmayan
+3 yaşından küçük çocuklar uzak tutulmalıdır.
+* Ambalaj malzemeleri çocuklar için tehlikelidir. Ambalaj malzemelerini çocukların ulaşamayacağı güvenli bir yerde saklayın.
+* Elektrikli ürünler çocuklar için tehlikelidir. Ürün çalışırken çocukları üründen uzak tutun. Ürünle oynamalarına izin vermeyin. Çocukların ürüne müdahale etmesini önlemek için çocuk kilidini kullanın.
+* Ürünün bulunduğu odadan çıkarken yükleme kapağını kapamayı unutmayın.
+* Tüm deterjanları ve katkı maddelerini çocukların ulaşamayacağı, güvenli bir yerde yükleme kapağı veya ambalajı kapalı olarak muhafaza edin.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 5 (Karakter Sayısı: 1195) ---
+1.3 Elektrik güvenliği
+* Ürün arızalı ise yetkili servis tarafından onarılmadan çalıştırılmamalıdır! Elektrik çarpma tehlikesi vardır!
+* Ürün, elektrik kesilip geldiğinde çalışmaya kaldığı yerden devam edecek şekilde tasarlanmıştır. Programı iptal etmek istiyorsanız, “Programın iptal edilmesi” bölümüne bakın.
+* Ürünü 16 amperlik bir sigorta tarafından korunan topraklı bir prize bağlayın. Topraklama tesisatını ehliyetli bir elektrikçiye yaptırın.
+Ürünün, yerel yönetmeliklere uygun topraklama yapılmadan kullanılması halinde ortaya çıkacak zararlardan firmamız sorumlu olmayacaktır.
+* Ürünü, üzerine su püskürterek veya su dökerek kesinlikle yıkamayın! Elektrik çarpma tehlikesi vardır!
+* Şebeke kablosunun fişine ıslak ellerle kesinlikle dokunmayın! Fişi çekmek için kablosundan tutmayın. Her zaman bir elinizle prizi bastırıp diğer elinizle fişi tutun ve çekin.
+* Kurulum, bakım, temizlik ve tamir işlemleri sırasında ürünün fişini prizden çekin.
+* Elektrik kablosu hasarlı ise tehlikeli durumları engellemek amacıyla üretici, yetkili servis veya benzeri düzeyde ehliyetli bir kişi (tercihen elektrik teknisyeni) ya da ithalatçı firmanın belirleyeceği bir kişi tarafından değiştirilmelidir.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 6 (Karakter Sayısı: 1061) ---
+1.4 Sıcak yüzey güvenliği
+Yüksek sıcaklıklarda yıkama yapılırken yükleme kapağının camı çok ısınır. Bu nedenle, yıkama sırasında özellikle çocukların yükleme kapağı camına
+
+
+
+
+BÖLÜM 2:  Çevre talimatları
+2.1 AEEE Yönetmeliğine uyum ve atık ürünün elden çıkarılması 
+Bu ürün, T.C. Çevre ve Şehircilik Bakanlığı tarafından yayımlanan “Atık Elektrikli ve Elektronik Eşyaların Kontrolü Yönetmeliği”nde belirtilen zararlı ve yasaklı maddeleri içermez. AEEE Yönetmeliğine uygundur.
+Bu ürün, geri dönüşümlü ve tekrar kullanılabilir nitelikteki yüksek kaliteli parça ve malzemelerden üretilmiştir. Bu nedenle, ürünü, hizmet ömrünün sonunda evsel veya diğer atıklarla birlikte atmayın. Elektrikli ve elektronik cihazların geri dönüşümü için bir toplama noktasına götürün. Bu toplama noktalarını bölgenizdeki yerel yönetime sorun. Kullanılmış ürünleri geri kazanıma vererek çevrenin ve doğal kaynakların korunmasına yardımcı olun. Ürünü atmadan önce çocukların güvenliği için elektrik fişini kesin ve yükleme kapağının kilit mekanizmasını kırarak çalışmaz duruma getirin.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 7 (Karakter Sayısı: 742) ---
+2.2 Ambalaj bilgisi Ürünün ambalajı, Ulusal Mevzuatımız gereği geri dönüştürülebilir malzemelerden üretilmiştir. Ambalaj atığını evsel veya diğer atıklarla birlikte atmayın, yerel yetkililerin belirttiği ambalaj toplama noktalarına atın.
+
+BÖLÜM 3: Kullanım amacı
+* Bu ürün evde kullanılmak üzere tasarlanmıştır. Ticari amaçlı kullanıma uygun değildir ve amacının dışında kullanılmamalıdır.
+* Yalnızca uygun işarete sahip tekstil ürünlerinin yıkanması ve durulanması için kullanın.
+* Üretici, hatalı kullanım veya taşıma nedeniyle oluşan herhangi bir zarardan dolayı sorumluluk kabul etmez.
+* Satın almış olduğunuz ürünün kullanım ömrü 10 yıldır. Bu, ürünün tanımlandığı şekilde çalışabilmesi için gerekli yedek parçaları bulundurma süresidir.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 8 (Karakter Sayısı: 1193) ---
+BÖLÜM 4.3 : Teknik özellikler 
+Kanun Hükmünde Komisyon Yönetmeliği (AB) No.1061/2010 ile Uyumludur 
+Tedarikçi adı veya ticari marka : Arçelik
+Model adı : 7103 D
+Nominal kapasite (kg) : 7
+Enerji verim sınıfı / A+++ (En yüksek verim) ile D (En düşük verim) arası ölçekte : A+++
+Yıllık Enerji Tüketimi (kWh) : 173
+Tam yükte 60°C standart pamuklu programının enerji tüketimi (kWh) : 0,930
+Kısmi yükte 60°C standart pamuklu programının enerji tüketimi (kWh) : 0,640
+Kısmi yükte 40°C standart pamuklu programının enerji tüketimi (kWh) : 0,640
+“Kapalı” modda elektrik tüketimi (W) : 0,250
+“Açık bırakma” modunda elektrik tüketimi (W) : 1,000
+Yıllık Su Tüketimi : 9899
+Sıkarak kurutma verimi sınıfı / A (En yüksek verim) ile G (En düşük verim) arası ölçekte : C
+Maksimum sıkma devri (dev/dak) : 1000
+Kalan nem miktarı (%) : 62
+Standart pamuklu programı : Pamuklu Eko 60°C ve 40°C
+Tam yükte 60°C standart pamuklu programının süresi (dak.) : 215
+Kısmi yükte 60°C standart pamuklu programının süresi (dak.) : 190
+Kısmi yükte 40°C standart pamuklu programının süresi (dak.) : 190
+Açık bırakma modunun süresi (dak.) : N/A
+Hava kaynaklı akustik gürültü emisyonları yıkama/sıkma (dB) : 63/76
+Ankastre : Hayır
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 9 (Karakter Sayısı: 1103) ---
+Kısmi yükte 40°C standart pamuklu programının süresi (dak.) : 190
+Açık bırakma modunun süresi (dak.) : N/A
+Hava kaynaklı akustik gürültü emisyonları yıkama/sıkma (dB) : 63/76
+Ankastre : Hayır
+Yükseklik (cm.) : 84
+Genişlik (cm.) : 60
+Derinlik (cm.) : 55
+Net ağırlık (±4 kg.) : 62
+Tek Su giriş mevcut
+Çift Su giriş mecvut değil
+Elektrik bağlantısı (V / Hz.) : 220-240 V / 50 Hz
+Toplam akım (A) : 10
+Toplam güç (W) : 2000-2350
+Ana model kodu : 9210
+* Tam ve kısmi yükte 60°C ve 40°C pamuklu programları için 220 standart yıkama döngüsüne dayanan enerji tüketimi ve düşük enerji modlarındaki tüketim. Gerçek enerji tüketimi makinenin nasıl kullanıldığına bağlıdır.
+* Tam ve kısmi yükte 60°C ile 40°C pamuklu programları için 220 standart yıkama döngüsüne dayanan su tüketimi. Gerçek su tüketimi makinenin nasıl kullanıldığına bağlıdır.
+* Etiket ve fişte yer alan bilgiler “60°C standart pamuklu programı” ve “40°C standart pamuklu programına” yönelik olup bu programlar, normal kirli pamuklu çamaşırların temizlenmesi için uygundur ve enerji ve su tüketimi bir arada düşünüldüğünde en verimli programlardır.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 10 (Karakter Sayısı: 127) ---
+* Ürün kalitesini artırmak için önceden haber verilmeksizin teknik özelliklerde üretici firma tarafındandeğişiklik yapılabilir.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 11 (Karakter Sayısı: 744) ---
+4.4 Kurulum 
+* Ürünün kurulumu için size en yakın yetkili servise başvurun.
+* Ürünün yerleştirileceği yerin ve ayrıca elektrik, temiz su ve atık su tesisatının hazırlanması müşteriye aittir.
+* Montaj ya da temizlik işlemlerinin ardından ürünün yerine itilmesi sırasında su giriş ve tahliye hortumlarıyla elektrik kablosunun katlanmaması, sıkışmaması ve kırılmamasına dikkat edin.
+* Ürünün kurulumunu ve elektrik bağlantılarını yetkili servise yaptırın. Yetkili olmayan kişiler tarafından yapılan işlemler nedeniyle doğabilecek zararlardan üretici firma sorumlu tutulamaz.
+* Ürünü kurmadan önce üzerinde herhangi bir hasar olup olmadığını kontrol edin. Ürün hasarlıysa kurulumunu yaptırmayın. Hasarlı ürünler güvenliğiniz için tehlike oluşturur.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 12 (Karakter Sayısı: 1007) ---
+4.4.1 Kurulum için doğru yer 
+* Ürünü sert , düz ve eğimsiz bir zemin üzerine yerleştirin. Uzun tüylü halı ya da benzeri bir yüzey üzerine yerleştirmeyin.
+* Çamaşır makinesi ve kurutucu üst üste yerleştirildiğinde toplam ağırlıkları –dolu halde– yaklaşık 180 kilogramı bulur. Ürünü yeterli yük taşıma kapasitesine sahip sağlam ve düz bir yüzey üzerine yerleştirin!
+* Ürünü elektrik kablosunun üzerine koymayın.
+* Ürünü, sıcaklığın 0 ºC’nin altına düştüğü ortamlara kurmayın.
+* Ürünü mobilyalarla arasında en az 1 cm boşluk kalacak şekilde yerleştirin.
+* Ürünü basamaklı bir zemine kuracaksanız kesinlikle kenara yakın bir noktaya yerleştirmeyin.
+* Ürünü herhangi bir platformun üzerine yerleştirmeyin.
+* Çamaşır makinesinin üzerine Ocak, Ütü, Fırın, Isıtıcı ve benzeri ısı kaynaklarını koymayınız, ürün üzerinde kullanmayınız.
+
+4.4.2 Ambalaj takviyesinin çıkarılması 
+Ambalaj takviyesini çıkarmak için ürünü arkaya doğru eğin. Kurdeleden çekerek ambalaj takviyesini çıkarın. Bu işlemi tek başınıza yapmayın.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 13 (Karakter Sayısı: 842) ---
+4.4.2 Ambalaj takviyesinin çıkarılması 
+Ambalaj takviyesini çıkarmak için ürünü arkaya doğru eğin. Kurdeleden çekerek ambalaj takviyesini çıkarın. Bu işlemi tek başınıza yapmayın.
+
+4.4.3 Nakliye emniyet cıvatalarının çıkarılması
+1 Serbestçe dönene dek tüm nakliye emniyet cıvatalarını uygun bir anahtarla gevşetin.
+2 Hafifçe döndürerek nakliye emniyet cıvatalarını sökün.
+3 Kullanım kılavuzunun bulunduğu poşetteki plastik kapakları arka paneldeki boşluklara takın.
+UYARI: Ürünü çalıştırmadan önce, nakliye emniyet cıvatalarını sökün! Aksi takdirde ürün hasar görecektir.
+*Ürünün başka bir yere taşınması gerektiğinde, ihtiyaç duyulacağı için, nakliye emniyet cıvatalarını güvenli bir yerde saklayın.
+*Nakliye emniyet cıvatalarını, sökme işleminin tersini uygulayarak takın.
+*Ürünü, nakliye emniyet cıvataları takılmadan kesinlikle taşımayın!
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 14 (Karakter Sayısı: 848) ---
+4.4.4 Su şebekesine bağlanması
+Ürünün çalışması için gerekli su basıncı 1-10 bar (0,1-1 MPa) arasındadır. Ürünün sağlıklı çalışabilmesi için, tam açılmış musluktan 1 dakikada 10 – 80 litre su akması gereklidir. Su basıncı daha yüksekse bir basınç düşürme valfi takın.
+Çift su girişli bir ürünü, tek su girişli (soğuk) olarak kullanacaksanız, ürünü çalıştırmadan önce, ürünle birlikte verilen tapayı mutlaka sıcak su girişine takın. (Beraberinde kör tapa grubu verilen ürünler için geçerlidir.)
+UYARI: Tek su girişli modeller sıcak su musluğuna bağlanmamalıdır. Çamaşırlar hasar görebilir ya da ürün, koruma durumuna geçerek çalışmayabilir.
+UYARI: Yeni üründe eski ya da kullanılmış su girişi hortumlarını kullanmayın.
+Çamaşırlarınızda leke kalabilir.
+1 Hortumun somunlarını elle iyice sıkın. Somunları sıkarken kesinlikle yardımcı alet kullanmayın.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 15 (Karakter Sayısı: 516) ---
+Çamaşırlarınızda leke kalabilir.
+1 Hortumun somunlarını elle iyice sıkın. Somunları sıkarken kesinlikle yardımcı alet kullanmayın.
+2 Hortum bağlantısı yapıldıktan sonra muslukları sonuna kadar açarak, bağlantı yerlerinden su sızıntısı olup olmadığını kontrol edin. Bir sızıntı durumunda, musluğu kapayıp somunu sökün. Contayı kontrol ederek somunu tekrar dikkatli bir şekilde sıkın. Ortaya çıkabilecek su sızıntıları ve bunun vereceği zararları önlemek için, ürünü kullanmadığınız zamanlarda muslukları kapalı tutun.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 16 (Karakter Sayısı: 1097) ---
+4.4.5 Su tahliye hortumunun gidere bağlanması 
+* Su tahliye hortumunun ucunu, doğrudan kirli su tahliye giderine, lavaboya ya da küvete takın.
+UYARI: Su tahliye hortumu, su tahliyesi sırasında yerinden çıkarsa evinizi su basacaktır.
+Ayrıca yüksek yıkama sıcaklıklarına bağlı yanma tehlikesi vardır! Bu tür durumları ürünün ve makinenin su alma ve tahliye işlemlerini sorunsuz bir şekilde yapmasını sağlamak için su tahliye hortumunun ucunu yerinden çıkmayacak şekilde sabitleyin.
+* Su tahliye hortumunu en az 40, en çok 100 cm yüksekliğe takın.
+* Su tahliye hortumunu zemin seviyesinde veya yere yakın (40 cm altında) yerleştirilip sonradan yükseltilmesi durumunda su tahliyesi zorlaşır ve çamaşırlar üründen aşırı ıslak bir şekilde çıkabilir. Bu nedenle, şekilde tarif edilen yüksekliklere uyun.
+* Pis suyun tekrar ürünün içine dolmaması ve rahat tahliye edilebilmesi için hortumun ucunu pis suya daldırmayın veya gidere 15 cm’den fazla sokmayın. Uzun kalıyorsa keserek kısaltın.
+* Hortumun ucunun bükülmemesine, üzerine basılmamasına ve hortumun giderle ürün arasında katlanmamasına dikkat edin.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 17 (Karakter Sayısı: 419) ---
+* Hortumun ucunun bükülmemesine, üzerine basılmamasına ve hortumun giderle ürün arasında katlanmamasına dikkat edin.
+* Hortum boyu kısa kalırsa, temin edeceğiniz orijinal uzatma hortumunu ekleyerek kullanın. Hortumun boyu 3,2 m’den uzun olamaz. Su kaçaklarını önlemek için, ek hortumla ürünün tahliye hortumu arasındaki bağlantıyı birbirinden çıkmayacak ve sızdırmayacak şekilde uygun bir kelepçeyle mutlaka sabitleyin.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 18 (Karakter Sayısı: 549) ---
+4.4.6 Ayakların ayarlanması
+UYARI: Ürünün daha sessiz ve titreşimsiz çalışabilmesi için ayakları üzerinde düzgün ve dengede durması gerekir. Ayakları ayarlayarak dengeyi sağlayın. Aksi takdirde, ürün yerinden hareket edebilir, çarpma, ses ve titreşim problemlerine yol açabilir.
+UYARI: Kilit somunlarını gevşetmek için herhangi bir alet kullanmayın. Aksi takdirde zarar görürler.
+1. Ayakların üzerindeki kilit somunlarını elle gevşetin.
+2. Ürün düz ve dengeli bir şekilde durana kadar ayakları ayarlayın.
+3. Tüm kilit somunlarını yeniden elle sıkın.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 19 (Karakter Sayısı: 865) ---
+4.4.7 Elektrik bağlantısı 
+Ürünü, 16 amperlik bir sigorta tarafından korunan topraklı bir prize bağlayın. Ürünün, yerel yönetmeliklere uygun topraklama yapılmadan kullanılması halinde ortaya çıkacak zararlardan firmamız sorumlu olmayacaktır.
+* Bağlantı, ulusal yönetmeliklerle uyumlu olmalıdır.
+* Ürünün elektriksel bağlantı kablo altyapısı ürün gereksinimleri için yeterli ve uygun olmalıdır. Kaçak akım rölesi kullanımı tavsiye edilir.
+* Elektrik kablosunun fişi kurulumdan sonra kolay erişilebilir olmalıdır.
+* Evinizdeki sigortanın akım değeri 16 amperden az ise ehliyetli bir elektrikçiye 16 amperlik bir sigorta bağlatın.
+* “4.3 Teknik özellikler” bölümünde belirtilen voltaj, şebeke voltajınıza eş değer olmalıdır.
+* Uzatma kabloları ya da çoklu prizlerle bağlantı yapmayın.
+UYARI: Hasar görmüş elektrik kabloları Yetkili Servis tarafından değiştirilmelidir.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 20 (Karakter Sayısı: 579) ---
+4.4.8 İlk çalıştırma 
+Ürünü kullanmaya başlamadan önce “2. Çevre talimatları” talimatları” ve “4.4 Kurulum” bölümlerindeki talimatlara uygun hazırlıkları tamamladığınızdan emin olun.
+Ürünü, çamaşır yıkamaya hazırlamak için ilk çalıştırma işlemini Kazan Temizleme programıyla yapın. Ürününüzde bu program yoksa, “4.7.2 Yükleme kapağı ve kazanın temizlenmesi” bölümünde tarif edilen yöntemi uygulayın.
+Çamaşır makinelerine uygun bir kireç önleyici kullanın.
+Üretim sırasında kalite kontrol işlemleri nedeniyle üründe bir miktar su kalmış olabilir. Bunun ürüne hiçbir zararı yoktur.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 21 (Karakter Sayısı: 1059) ---
+4.5.2 Yıkanacak giysilerin hazırlanması 
+* Destek teli, kemer tokası veya metal düğme gibi metal parçalara sahip çamaşırlar ürüne hasar verir. Metal parçaları çıkarın ya da çamaşırları çamaşır torbası veya bir yastık kılıfına koyarak yıkayın.
+* Ceplerdeki bozuk para, kalem, ataç gibi tüm cisimleri çıkarın ve mümkünse, cepleri ters çevirip fırçalayın. Bu tür cisimler ürüne zarar verebilir veya ses problemine yol açabilir.
+* Çocuk çorapları ve naylon çoraplar gibi küçük boyuttaki çamaşırları, çamaşır torbası veya yastık kılıfına koyun.
+* Perdeleri sıkıştırmadan yerleştirin. Perde bağlantı elemanlarını sökün.
+* Fermuarları kapayın, gevşek düğmeleri dikin, sökükleri ve yırtıkları onarın.
+* “Çamaşır makinesinde yıkanabilir” ya da “Elde yıkanabilir” etiketli ürünleri yalnızca uygun programlarda yıkayın.
+* Renklilerle beyazları birlikte yıkamayın. Yeni, koyu renkli pamuklu giysiler çok boya verebilir. Bu çamaşırları ayrı yıkayın.
+* Zorlu lekelere yıkama öncesinde uygun şekilde müdahale edilmelidir. Emin değilseniz, kuru temizlemeciye kontrol ettirin.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 22 (Karakter Sayısı: 720) ---
+* Zorlu lekelere yıkama öncesinde uygun şekilde müdahale edilmelidir. Emin değilseniz, kuru temizlemeciye kontrol ettirin.
+* Yalnızca çamaşır makinesinde yıkamaya uygun boyalar / renk değiştiriciler ve kireç çözücü maddeler kullanın. Ambalaj üzerindeki talimatlara mutlaka uyun.
+* Pantolonları ve narin çamaşırları ters yüz ederek yıkayın.
+* Angora yününden üretilmiş çamaşırları yıkamadan önce birkaç saat buzdolabının dondurucu bölümünde bekletin. Bu sayede oluşacak topak miktarı azalacaktır.
+* Un, kireç tozu, süt tozu vb. maddelere yoğun olarak maruz kalan çamaşırları, ürüne yerleştirmeden önce, iyice silkeleyin. Çamaşırların üzerindeki bu tip tozlar, ürünün iç aksamında birikerek zamanla arızaya neden olabilir.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 23 (Karakter Sayısı: 1156) ---
+4.5.3 Enerji tasarrufu için yapılması gerekenler 
+Aşağıdaki bilgiler, ürünü, ekolojik bir şekilde ve enerji tasarrufu sağlayarak kullanmanıza yardımcı olacaktır.
+* Ürünü, seçtiğiniz program için izin verilen en yüksek yük kapasitende çalıştırın; kapasitesinden fazla yüklemeyin. Bkz. “4.6.4 Program ve tüketim tablosu.” 
+* Deterjan ambalajı üzerindeki sıcaklık tavsiyelerine uyun.
+* Az kirli çamaşırlarınızı düşük sıcaklıklarda yıkayın.
+* Az kirli ve az miktarda çamaşırlarınız için hızlı programları tercih edin.
+* Çok kirli ve lekeli olmayan çamaşırlarınız için ön yıkama ve yüksek sıcaklık kullanmayın.
+* Çamaşırlarınızı kurutma makinesinde kurutacaksanız yıkama programınız için önerilen en yüksek sıkma devrini seçin.
+* Deterjan ambalajında tavsiye edilenden fazla deterjan kullanmayın.
+
+4.5.4 Çamaşır yükleme
+1. Yükleme kapağını açın.
+2. Çamaşırları ürüne gevşek biçimde yerleştirin.
+3. Yükleme kapağını, kilitlenme sesini duyana kadar iterek kapayın. Giysilerin kapağa sıkışmamasına dikkat edin. Yükleme kapağı, program çalışırken kilitlenir. Program bittikten belli bir süre sonra kapak kilidi açılır. Bunun ardından yükleme kapağını açabilirsiniz.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 24 (Karakter Sayısı: 393) ---
+4.5.5 Doğru yük kapasitesi 
+Maksimum yük kapasitesi, çamaşır tipine, kirlilik derecesine ve kullanmak istediğiniz yıkama programına bağlıdır.
+Ürün, içine konulan çamaşırın ağırlığına göre su miktarını kendisi ayarlar.
+UYARI: “4.6.4 Program ve tüketim tablosu” bölümündeki bilgilere uyun. Aşırı yüklendiğinde, ürünün yıkama performansı düşecektir. Ayrıca ses ve titreşim problemleri oluşabilir.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 25 (Karakter Sayısı: 1156) ---
+4.5.6 Deterjan ve yumuşatıcı kullanımı
+Deterjan, yumuşatıcı, kola, kumaş boyası, çamaşır suyu ve ağartıcı, kireç çözücü kullanırken paket üzerindeki üretici talimatlarını dikkatle okuyun ve verilen dozaj değerlerine uyun. Varsa, dozaj kabını kullanın.
+2 3 1 Deterjan çekmecesi üç bölmeden oluşur:
+– (1) ön yıkama için – (2) ana yıkama için – (3) yumuşatıcı için – (*) ayrıca yumuşatıcı bölmesinde sifon parçası bulunur.
+Deterjan, yumuşatıcı ve diğer temizleme maddeleri: 
+* Yıkama programını başlatmadan önce deterjan ve yumuşatıcı ekleyin.
+* Yıkama programı çalışırken, deterjan çekmecesini açık bırakmayın!
+* Ön yıkamasız program kullanıyorsanız, ön yıkama gözüne (“1” no’lu göz) deterjan koymayın.
+* Ön yıkamalı programda ön yıkama gözüne (“1” no’lu göz) sıvı deterjan koymayın.
+* Deterjan torbası ya da dozaj topu kullanıyorsanız ön yıkamalı bir program seçmeyin. Deterjan torbası ya da dozaj topunu, doğrudan ürünün içindeki çamaşırların arasına yerleştirin.
+* Sıvı deterjan kullanıyorsanız, sıvı deterjan kabını ana yıkama gözüne (“2” nolu göz) yerleştirmeyi unutmayın.
+Deterjan seçimi: 
+Kullanılacak deterjan türü, kumaş cinsine ve rengine bağlıdır.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 26 (Karakter Sayısı: 1190) ---
+* Sıvı deterjan kullanıyorsanız, sıvı deterjan kabını ana yıkama gözüne (“2” nolu göz) yerleştirmeyi unutmayın.
+Deterjan seçimi: 
+Kullanılacak deterjan türü, kumaş cinsine ve rengine bağlıdır.
+* Renkli ve beyaz çamaşırlar için ayrı deterjanlar kullanın.
+* Hassas çamaşırlarınızı, yalnızca hassas çamaşırlar için kullanılan özel deterjanlarla (sıvı deterjan, yün şampuanı vb.) yıkayın.
+* Koyu renkli çamaşır ve yorganları yıkarken sıvı deterjan kullanmanız önerilir.
+* Yünlüleri, yalnızca yünlüler için kullanılan özel bir deterjanla yıkayın.
+UYARI: Sadece çamaşır makineleri için, özel olarak üretilmiş deterjanları kullanın.
+UYARI: Sabun tozu kullanmayın.
+Deterjan miktarının ayarlanması:
+Kullanılacak çamaşır deterjanı miktarı, çamaşır miktarına, kirlilik derecesine ve suyun sertliğine bağlıdır.
+* Aşırı köpük ve iyi durulamama sorunlarını engellemek, maddi tasarruf sağlamak ve çevreyi korumak amacıyla, deterjan paketinin üzerindeki tavsiye edilen dozaj değerlerini aşmayın.
+* Az miktarda ya da az kirli çamaşırlar için daha az deterjan kullanın. Yumuşatıcı kullanımı Yumuşatıcıyı, deterjan çekmecesinin yumuşatıcı gözüne koyun.
+* Yumuşatıcı gözündeki (>max<) seviye işaretini aşmayın.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 27 (Karakter Sayısı: 1085) ---
+* Yumuşatıcı gözündeki (>max<) seviye işaretini aşmayın.
+* Yumuşatıcı akışkanlığını kaybetmişse, yumuşatıcı gözüne koymadan önce suyla seyreltin.
+UYARI: Çamaşırları yumuşatma amacıyla, çamaşır makineleri için üretilen yumuşatıcılar haricinde sıvı deterjan veya temizleyici özellikli başka maddeler kullanmayın.
+Sıvı deterjan kullanımı: 
+Üründe sıvı deterjan kabı varsa 
+* Sıvı deterjan kabını “2” nolu göze yerleştirin.
+* Sıvı deterjan akışkanlığını kaybetmişse, deterjan kabına koymadan önce suyla seyreltin.
+Üründe sıvı deterjan kabı yoksa: 
+* Ön yıkamalı bir programda, ön yıkama için sıvı deterjan kullanmayın.
+* Sıvı deterjan, Gecikmeli başlatmak için "Bitiş Süresi" fonksiyonu kullanıldığında çamaşırlarınızın üzerinde leke bırakır. Bitiş Süresi özelliğini kullanacaksanız sıvı deterjan kullanmayın.
+Jel ve tablet deterjan kullanımı:
+* Jel deterjan akışkan kıvamındaysa ve ürününüzde özel bir sıvı deterjan kabı yoksa, jel deterjanı ilk su alma sırasında ana yıkama deterjan gözüne koyun. Ürününüzde sıvı deterjan kabı varsa, programı başlatmadan önce deterjanı bu kaba doldurun.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 28 (Karakter Sayısı: 1179) ---
+* Jel deterjan akışkan kıvamında değilse veya kapsüllü sıvı tablet şeklindeyse yıkama öncesinde doğrudan kazanın içine koyun.
+* Tablet deterjanları ana yıkama gözüne (“2” no’lu göz) veya yıkama öncesinde doğrudan kazanın içine koyun.
+Kola kullanımı:
+* Sıvı kola, toz kola veya kumaş boyasını yumuşatıcı gözüne koyun.
+* Bir yıkama programında, aynı anda yumuşatıcı ve kola kullanmayın.
+* Kola kullandıktan sonra ürünün içini nemli ve temiz bir bezle silin.
+Kireç çözücü kullanımı:
+* Gerektiğinde, sadece çamaşır makineleri için üretilmiş kireç çözücü kullanın. 
+Çamaşır suyu ve ağartıcı kullanımı: 
+* Çamaşır suyunu, ön yıkamalı bir program seçerek ön yıkamanın başlangıcında ekleyin. Ön yıkama gözüne deterjan koymayın. Alternatif bir uygulama olarak çamaşır suyunu, ilave durulamalı bir program seçip, ürün, birinci durulama adımında deterjan gözünden su alırken ekleyin.
+* Çamaşır suyuyla deterjanı karıştırarak kullanmayın.
+* Çamaşır suyu, deri tahrişine neden olacağı için az miktarda (1/2 çay bardağı - yaklaşık 50 ml) kullanın ve çamaşırları iyi bir şekilde durulayın.
+* Çamaşır suyunu doğrudan çamaşırların üzerine dökmeyin.
+* Renkli çamaşırlarda çamaşır suyu kullanmayın.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 29 (Karakter Sayısı: 456) ---
+* Çamaşır suyunu doğrudan çamaşırların üzerine dökmeyin.
+* Renkli çamaşırlarda çamaşır suyu kullanmayın.
+* Oksijen bazlı ağartıcı kullanırken düşük sıcaklıkta yıkayan bir program seçin.
+* Oksijen bazlı ağartıcı, deterjanla birlikte kullanılabilir. Ancak deterjanla aynı kıvamda değilse, önce deterjan çekmecesindeki “2” nolu göze deterjanı koyun ve ürün su alırken deterjanı akıtmasını bekleyin. Makine su almaya devam ederken aynı göze ağartıcıyı ekleyin.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 30 (Karakter Sayısı: 905) ---
+BÖLÜM: 4.5.7 Doğru yıkama önerileri
+Kir Miktarı : Çok Kirli(Çimen, kahve, meyve, kan lekesi gibi zor lekeler.), Normal Kirli(Yaka ve manşetlerdeki vücut kiri lekeleri örnektir.), Az Kirli (Gözle görülür leke yoktur.)
+Giysiler: Açık Renkliler ve Beyazlar(Kir miktarına göre önerilen yıkama sıcaklığı aralığı: 40-90 oC), Renkliler (Kir miktarına göre önerilen yıkama sıcaklığı aralığı: soğuk-40 oC), Siyah/Koyu Renkliler (Kir miktarına göre önerilen yıkama sıcaklığı aralığı: soğuk-40), Narinler/Yünlüler/İpekliler (Kir miktarına göre önerilen yıkama sıcaklığı aralığı: soğuk-30 oC) 
+Çok kirli açık renkliler ve beyazlar : Lekelere ön işlemde bulunmak veya ön yıkama yapmak gerekebilir. Beyazlar için önerilen toz veya sıvı deterjanlar, yoğun kirli çamaşırlar için önerilen dozajlarda kullanılabilir. Ağartıcılara hassas lekelerle kil ve toprak lekelerini temizlemek için toz deterjan kullanılması önerilir.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 31 (Karakter Sayısı: 626) ---
+Çok kirli renkliler : Renkliler için önerilen toz veya sıvı deterjanlar, yoğun kirli çamaşırlar için önerilen dozajlarda kullanılabilir. Ağartıcılara hassas lekelerle kil ve toprak lekelerini temizlemek için toz deterjan kullanılması önerilir. Ağartıcı içermeyen deterjanlar kullanılmalıdır.
+Çok kirli siyah/koyu renkliler : Renkliler veya siyah/koyu renkliler için uygun sıvı deterjanlar, yoğun kirli çamaşırlar için önerilen dozajlarda kullanılabilir.
+Çok kirli narinler/ yünlüler/ ipekliler : Narin çamaşırlar için üretilmiş sıvı deterjanları tercih edin. Yünlü veya ipek giysiler, özel yünlü deterjanları ile yıkanmalıdır.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 32 (Karakter Sayısı: 687) ---
+Normal kirli açık renkliler ve beyazlar : Beyazlar için önerilen toz veya sıvı deterjanlar, normal kirli çamaşırlar için önerilen dozajlarda kullanılabilir.
+Normal kirli renkliler : Renkliler için önerilen toz veya sıvı deterjanlar, normal kirli çamaşırlar için önerilen dozajlarda kullanılabilir. Ağartıcı içermeyen deterjanlar kullanılmalıdır.
+Normal kirli siyah/koyu renkliler : Renkliler veya siyah/koyu renkliler için uygun sıvı deterjanlar, normal kirli çamaşırlar için önerilen dozajlarda kullanılabilir. 
+Normal kirli narinler/ yünlüler/ ipekliler : Narin çamaşırlar için üretilmiş sıvı deterjanları tercih edin.Yünlü veya ipek giysiler, özel yünlü deterjanları ile yıkanmalıdır.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 33 (Karakter Sayısı: 859) ---
+Az kirli açık renkliler ve beyazlar : Beyazlar için önerilen toz veya sıvı deterjanlar, az kirli çamaşırlar için önerilen dozajlarda kullanılabilir.
+Az kirli renkliler : Renkliler için önerilen toz veya sıvı deterjanlar, az kirli çamaşırlar için önerilen dozajlarda kullanılabilir. Ağartıcı içermeyen deterjanlar kullanılmalıdır. 
+Az kirli siyah/koyu renkliler : Renkliler veya siyah/koyu renkliler için uygun sıvı deterjanlar, az kirli çamaşırlar için önerilen dozajlarda kullanılabilir.
+Az kirli narinler/ yünlüler/ ipekliler : Narin çamaşırlar için üretilmiş sıvı deterjanları tercih edin. Yünlü veya ipek giysiler, özel yünlü deterjanları ile yıkanmalıdır.
+
+
+4.6.2 Makineyi hazırlama
+1.Hortumların sıkıca bağlandığından emin olun.
+2.Makinenin fişini takın.
+3.Musluğu tamamen açın.
+4.Çamaşırları makinenin içine yerleştirin.
+5.Deterjan ve yumuşatıcı koyun.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 34 (Karakter Sayısı: 708) ---
+4.6.2 Makineyi hazırlama
+1.Hortumların sıkıca bağlandığından emin olun.
+2.Makinenin fişini takın.
+3.Musluğu tamamen açın.
+4.Çamaşırları makinenin içine yerleştirin.
+5.Deterjan ve yumuşatıcı koyun.
+
+4.6.3 Program seçimi ve doğru yıkama önerileri
+1.“Program ve tüketim tablosu”na ve aşağıdaki sıcaklık tablosuna bakarak çamaşırların cinsine, miktarına, kir derecesine uygun programı belirleyin.
+2.Program Seçim düğmesini kullanarak istediğiniz programı seçin.
+* Seçtiğiniz programın yıkama süresini makinenin ekranında görebilirsiniz. Ekranda görülen süre ile gerçek yıkama süresi arasında küçük farklılıkların olması normaldir.
+** Kalan nem içeriği değerleri, seçilen devir hızına göre farklılık gösterebilir.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 35 (Karakter Sayısı: 1050) ---
+BÖLÜM: 4.6.5 Ana programlar 
+Kumaş cinsine bağlı olarak aşağıdaki ana programları kullanın.
+* Pamuklu 
+Dayanıklı pamuklu çamaşırlarınızı (çarşaf, nevresim takımı, havlu, bornoz, iç çamaşırı vb.) bu programda yıkayabilirsiniz. Hızlı yıkama fonksiyon tuşuna basıldığında program süresi belirgin şekilde azalmasına rağmen yoğun yıkama hareketi ile etkin yıkama performansı sağlanır. Hızlı yıkama fonksiyonu seçilmediği durumda ise yoğun kirli çamaşırlarınız için üstün yıkama ve durulama performansı sağlanır.
+* Sentetik 
+Sentetik çamaşırlarınızı (gömlekler, bluzlar, sentetik/pamuklu karışımları vb.) bu programda yıkayabilirsiniz. Hızlı yıkama fonksiyon tuşuna basıldığında program süresi oldukça kısalır ve yüksek performansta yıkama sağlanır.Hızlı yıkama fonksiyonu seçilmediği durumda ise kirli çamaşırlarınız için üstün yıkama ve durulama performansı sağlanır.
+* Yünlü / Elde Yıkama 
+Yünlü/hassas çamaşırlarınızı yıkamak için kullanın. Çamaşırınızın etiketine uygun sıcaklığı seçin. Çok hassas yıkama hareketiyle çamaşırlarınızı yıpratmadan yıkar.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 36 (Karakter Sayısı: 1166) ---
+4.6.6 İlave programlar 
+Makinede, özel durumlar için ilave programlar bulunmaktadır.
+İlave programlar makinenin modeline göre farklılık gösterir.
+* Pamuklu Eko 
+Normal kirli, dayanıklı pamuklu ve keten çamaşırlarınızı yıkamak için kullanın. Bu program, diğer tüm yıkama programlarına göre daha uzun sürede yıkamasına rağmen yüksek enerji ve su tasarrufu sağlar. Gerçek su sıcaklığı, belirtilen yıkama sıcaklığından farklı olabilir. Daha az miktarlarda çamaşır yıkarken (örn. ½ kapasite veya daha az) program aşamalarındaki süreler otomatik olarak kısalabilir. Bu durumda enerji ve su tüketimi daha da azalarak daha ekonomik bir yıkama yapılır.
+* Hijyen 
+Yüksek sıcaklıkta yoğun yıkama ile hijyen istenen (bebek kıyafetleri, çarşaf, nevresim, iç çamaşırı, v.b. pamuklu) çamaşırlarınız için kullanabileceğiniz uzun süreli bir programdır.Uzun ısıtma süresi ve ilave bir durulama sayesinde yüksek hijyen sağlanır.
+* Hassas 
+Pamuklu/sentetik karışımlı triko, penye gibi narin giysilerinizi bu programda yıkayabilirsiniz.Hassas yıkama hareketi ile yıkar. Renginin korunmasını istediğiniz giysilerinizi 20 derece ya da soğuk opsiyonunu seçerek yıkayınız.
+* Günlük/ Hızlı 14
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 37 (Karakter Sayısı: 1188) ---
+* Günlük/ Hızlı 14 
+Bu programı, az kirli veya lekesiz pamuklu giysileri kısa sürede yıkamak için kullanabilirsiniz.Hızlı yıkama fonksiyonu seçildiğinde program süresi 14 dakikaya kadar kısaltılabilir. Hızlı yıkama fonksiyonu seçildiğinde maksimum 2 (iki) kg çamaşır yıkanmalıdır.
+* Koyu Renkliler / Kot
+Bu programı koyu renkli veya kot giysilerinizin renklerini korumak için kullanabilirsiniz. Düşük sıcaklıkta olmasına rağmen özel tambur hareketi sayesinde yüksek performansta yıkama yapılmaktadır. Koyu renkliler için sıvı deterjan veya yün şampuanı kullanılması önerilmektedir. Yünlü vb. içerikli narin giysilerinizi yıkamayınız.
+* Karma 
+Pamuklu ve sentetik çamaşırları ayırmadan, bir arada yıkamak için kullanın.
+* Gömlek 
+Bu program, pamuklu, sentetik ve sentetik karışımlı gömlekleri bir arada yıkamak için kullanılır. Kırışık azaltma özelliği bulunmaktadır. Hızlı yıkama fonksiyonu seçildiğinde Ön işlem algoritması çalışır.
+Ön işlem kimyasalını giysilerinize ya direkt uygulayın ya da ana yıkama gözünden su alınmaya başladığında deterjan ile birlikte ekleyin. Böylece çok daha kısa sürede, normal yıkama ile aynı etkinlikte yıkama elde edilir. Gömleklerinizin ömrü uzar.
+* Spor
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 38 (Karakter Sayısı: 864) ---
+* Spor 
+Bu program pamuklu/sentetik karışımlı, üzerinde gore-tex vb. su itici kaplama içeren spor ve outdoor giysileri yıkamak için kullanılabilir. Özel dönüş hareketleri saesinde giysilerinizin hassas yıkanması sağlanır.
+* Perde 
+Tül ve perdelerinizi yıkamak için bu programı kullanabilirsiniz. Tül, delikli yapısı nedeni ile çok köpürdüğü için ana yıkama gözüne az miktarda deterjan koyun. Programdaki özel sıkma profili sayesinde tül ve perdelerin daha az kırışması sağlanır. Perdelerinizin hasar görmemesi adına belirtilen kapasitenin üzerinde perde yıkamayın.
+Bu programda perdeler için üretilen özel deterjanları kullanmanız önerilir.
+* Nevresim 
+Kuş tüyü içeren mont, yelek, ceket vb. makinede yıkanabilir etiketi olan giysilerinizi bu programda yıkayın. Özel sıkma profilleri sayesinde tüylerin içerisindeki hava boşluklarına kadar suyun ulaşması sağlanır.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 39 (Karakter Sayısı: 1152) ---
+4.6.7 Özel programlar 
+Özel uygulamalar için aşağıdaki programlardan herhangi birini seçin.
+* Durulama 
+Durulamayı ya da kolalamayı ayrı yapmak istediğinizde kullanın.
+* Sıkma+Pompa
+Çamaşır üzerinde bulunan suyun uzaklaştırılması veya makinanın içindeki suyu tahliye etmek için kullanılabilir.
+Bu programı seçmeden önce, istediğiniz sıkma devrini seçip, Başla / Bekle tuşuna basın.
+Makine, önce içerisindeki suyu tahliye eder. Ardından, ayarlanmış olan sıkma devriyle çamaşırları sıkarak çıkan suyu tahliye eder.
+Çamaşırlarınızı sıktırmadan, sadece suyu tahliye etmek istiyorsanız, Pompa+Sıkma programını seçtikten sonra, Sıkma Devri Ayar tuşu yardımıyla, Sıkma Yok fonksiyonunu seçin ve Başla / Bekle tuşuna basın.
+Narin çamaşırlar için düşük sıkma devirlerini kullanın.
+
+4.6.8 Sıcaklık seçimi 
+Yeni bir program seçildiğinde, sıcaklık göstergesinde seçilen programın tavsiye edilen sıcaklık değeri görünür.
+Sıcaklığı azaltmak için, Sıcaklık Ayar tuşuna basın. Sıcaklık kademelerle azalır. Soğuk kademesi seçildiğinde sıcaklık seviyesi ışıkları yanmaz.
+Program ısıtma adımına gelmediyse, makineyi bekleme durumuna almadan sıcaklığı değiştirebilirsiniz.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 40 (Karakter Sayısı: 1046) ---
+4.6.9 Devir seçimi 
+Yeni bir program seçildiğinde, sıkma devri göstergesinde seçilen programın tavsiye edilen sıkma devri görünür.
+Sıkma devrini azaltmak için, Sıkma Devri Ayar tuşuna basın. Sıkma devri kademelerle azalır. Daha sonra ekranda, ürünün modeline bağlı olarak “Suda Bırakma” ve “Sıkma Yok” seçenekleri görünür. Sıkma yok kademesi seçildiğinde sıkma seviyesi gösterge ışıkları yanmaz.
+Suda bırakma:
+Makineyi program bitiminden hemen sonra boşaltmayacaksanız, çamaşırlarınızın susuz ortamda buruşmalarını önlemek için suda bırakma özelliğiyle onları son durulama suyunda bekletebilirsiniz. Bu işlemden sonra çamaşırlarınızı sıkmadan suyu tahliye etmek istiyorsanız, Başla / Bekle tuşuna basın. Program devam eder ve su tahliye edilerek program tamamlanır.
+Suda bıraktığınız çamaşırları sıkmak istiyorsanız, Sıkma devrini ayarlayın ve Başla / Bekle tuşuna basın.
+Program devam eder. Su tahliye edilerek çamaşırlar sıkılır ve program sonlanır.
+Program sıkma adımına gelmediyse, makineyi bekleme durumuna almadan devri değiştirebilirsiniz.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 41 (Karakter Sayısı: 845) ---
+BÖLÜM: 4.6.10 Yardımcı fonksiyon seçimi 
+Programı başlatmadan önce istediğiniz yardımcı fonksiyonları seçin. Ayrıca makine çalışırken Başla / Bekle tuşuna basmadan çalışmakta olan programa uygun yardımcı fonksiyonları seçebilir veya iptal edebilirsiniz. Bunun için makinenin, seçeceğiniz veya iptal edeceğiniz yardımcı fonksiyondan önceki bir adımda olması gerekir.
+Yardımcı fonksiyon seçilemiyor veya iptal edilemiyorsa, ilgili yardımcı fonksiyonun ışığı 3 kez yanıp sönerek kullanıcıyı uyarır.
+Makineyi çalıştırmadan önce ilk seçilen yardımcı fonksiyonla uyumsuz bir yardımcı fonksiyon seçilirse, ilk seçilen fonksiyon iptal olur ve son seçilen yardımcı fonksiyon seçili kalır.
+Programa uygun olmayan yardımcı fonksiyon seçilemez. (Bkz. “Program ve tüketim tablosu”) Yardımcı Fonksiyon düğmeleri makinenin modeline göre farklılık gösterebilir.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 42 (Karakter Sayısı: 968) ---
+4.6.10.1 Yardımcı Fonksiyonlar 
+* Ön Yıkama 
+Ön Yıkama yalnızca çok kirli çamaşırlar için gereklidir. Ön Yıkama kullanmadığınız takdirde enerji, su, deterjan ve zaman tasarrufu sağlarsınız.
+Tül ve perdeler için deterjansız ön yıkama önerilir.
+* Hızlı Yıkama 
+Bu fonksiyon seçildiğinde ilgili programların süreleri %50‘ ye kadar kısalır.
+Optimize edilmiş yıkama adımları, yüksek mekanik etki ve optimum su tüketimi sayesinde süre kısalmasına rağmen yüksek yıkama performansı elde edilir.
+Bu fonksiyonu seçtiğinizde, makineye, program tablosunda belirtilen azami yük miktarının en çok yarısı kadar çamaşır yükleyin.
+* İlave Su 
+Bu fonksiyon, Program ve tüketim tablosunda seçilebilir olarak belirtilen tüm programlarda çamaşırlarınızı, bol suyla yıkama ve durulamaya olanak sağlar. Bu fonksiyonu kolayca kırışan narin çamaşırlar için kullanın.
+Bu fonksiyonu seçtiğinizde, makineye, program tablosunda belirtilen azami yük miktarının en çok yarısı kadar çamaşır yükleyin.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 43 (Karakter Sayısı: 1148) ---
+BÖLÜM: 4.6.10.2 Fonksiyon Tuşlarına 3’’ Basılarak Seçilen Fonksiyonlar/Programlar 
+* Kazan Temizleme 
+Programı 1. yardımcı fonksiyon tuşuna 3 saniye uzun basarak seçin.
+Kazanın temizlenmesi ve gerekli hijyenin sağlanması için belli bir sıklıkta (1-2 ayda bir) çalıştırın. Programı, makine tamamen boşken çalıştırın. Daha verimli bir sonuç elde etmek için, “2” no’lu deterjan gözüne çamaşır makinelerine uygun toz kireç çözücü koyun. Program sona erdikten sonra yükleme kapağını aralık bırakarak makinenin içinin kurumasını sağlayın.
+Bu, çamaşır yıkama programı değildir. Makine bakım programıdır.
+Bu program, makinenin içinde herhangi bir şey varken çalıştırılamaz. Çalıştırmayı denediğinizde makine otomatik olarak içeride çamaşır olduğunu algılar ve programı sonlandırır.
+* Çocuk kilidi 
+Çocuk kilidi özelliğiyle, çocukların makineyle oynamasını önleyebilirsiniz. Bu sayede, devam eden bir programda değişiklik yapılmasını engelleyebilirsiniz.
+Çocuk kilidi devredeyken Program Seçim düğmesi çevrilirse, ekranda “Con” ibaresi görünür.
+Çocuk kilidi, programlarda ve seçilen sıcaklık, devir ve yardımcı fonksiyonlarda değişiklik yapmaya izin vermez.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 44 (Karakter Sayısı: 1030) ---
+Çocuk kilidi, programlarda ve seçilen sıcaklık, devir ve yardımcı fonksiyonlarda değişiklik yapmaya izin vermez.
+Çocuk kilidi devredeyken Program Seçim düğmesiyle başka bir program seçilse bile, daha önce seçilmiş olan program çalışmaya devam eder.
+Çocuk kilidini etkinleştirmek için:
+2. Yardımcı Fonksiyon tuşuna 3 saniye basın. 3 saniye basılı tutma sırasında ekranda sırasıyla C03, C02, C01 ibareleri görünür. Ardından 2. Yardımcı Fonksiyon tuşu üzerindeki ışık yanıp sönerken ekranda çocuk kilidinin aktif hale geldiğini gösteren “Con” ibaresi belirir.
+Makine, çocuk kilidindeyken herhangi bir tuşa basıldığında veya Program Seçim düğmesi çevrildiğinde de ekranda aynı ibare görünür.
+Çocuk kilidini devreden çıkarmak için:
+Herhangi bir program çalışırken 2. Yardımcı Fonksiyon tuşuna 3 saniye basın. 3 saniye basılı tutma sırasında ekranda sırasıyla C03, C02, C01 ibareleri görünür. Ardından 2. Yardımcı Fonksiyon tuşu üzerindeki ışık yanıp sönerken ekranda çocuk kilidinin devre dışı kaldığını gösteren “COF” ibaresi belirir.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 45 (Karakter Sayısı: 280) ---
+Yukarıdaki yönteme ek olarak çocuk kilidini devreden çıkarmak için, herhangi bir program çalışmıyorken, Program Seçim düğmesini Açma / Kapama konumuna getirip başka bir program seçin.
+Elektrik kesintilerinde veya makinenin fişi prizden çıkarıldığında çocuk kilidi devreden çıkmaz.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 46 (Karakter Sayısı: 1060) ---
+BÖLÜM: 4.6.11 Geç Başlatma 
+Geç Başlatma fonksiyonuyla program başlangıcı 19 saate kadar ertelenebilir. Geç başlatma süresi, bir saatlik adımlarla artırılabilir.
+Geç Başlatma ayarı yaptığınızda sıvı deterjan kullanmayın! Çamaşırlarda leke kalması riski vardır.
+1. Yükleme kapağını açın, çamaşırları yerleştirin ve deterjan vb. ekleyin.
+2. Yıkama programını, sıcaklığını, sıkma devrini ve gerekirse yardımcı fonksiyonları seçin.
+3. Geç Başlatma tuşuna basarak istediğiniz süreyi ayarlayın.
+4. Başla / Bekle tuşuna basın. Ekranda ayarlanan geç başlatma süresi görüntülenir. Geç başlatma süresi geri saymaya başlar. Geç başlatma süresinin yanındaki “_” sembolü ekranda yukarı aşağı hareket etmeye başlar.
+Geç başlatma süresi boyunca, makineye çamaşır ilave edilebilir.
+5. Geri sayma işleminin sonunda seçili program süresi görünür. “_” sembolü kaybolur ve seçilen program başlar.
+Geç Başlatma süresinin değiştirilmesi :
+ Geri sayım işlemi sırasında süreyi değiştirmek isterseniz:
+1. Geç Başlatma tuşuna basın. Tuşa her basışta süre 1 saatlik adımlarla artacaktır.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 47 (Karakter Sayısı: 779) ---
+Geç Başlatma süresinin değiştirilmesi :
+ Geri sayım işlemi sırasında süreyi değiştirmek isterseniz:
+1. Geç Başlatma tuşuna basın. Tuşa her basışta süre 1 saatlik adımlarla artacaktır.
+2. Geç başlatma süresini kısaltmak istiyorsanız, ayarlamak istediğiniz geç başlatma süresi ekranda görünene kadar Geç Başlatma tuşuna basmaya devam edin.
+Geç Başlatma fonksiyonunun iptal edilmesi :
+Geç başlatma süresi geri sayımını iptal etmek ve programı hemen başlatmak isterseniz:
+1. Geç başlatma süresini sıfıra ayarlayın veya Program Seçim düğmesini herhangi bir programa çevirin. Bu şekilde Geç Başlatma fonksiyonu iptal olur. Bitti / İptal gösterge ışığı sürekli yanıp söner.
+2. Daha sonra, tekrar çalıştırmak istediğiniz programı seçin.
+3. Başla / Bekle tuşuna basarak programı başlatın.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 48 (Karakter Sayısı: 534) ---
+4.6.12 Programın başlatılması
+1. Programı başlatmak için Başla / Bekle tuşuna basın.
+2. Programın başladığını belirten program takip ışığı yanar.
+Program seçimi sırasında 1 dakika içinde herhangi bir program başlatılmazsa veya herhangi bir tuşa basılmazsa makine bekleme durumuna geçer ve sıcaklık, devir, yükleme kapağı gösterge ışıklarının parlaklığı azalır. Diğer gösterge ışıkları ve göstergeler söner. Program Seçim düğmesinin çevrilmesi veya herhangi bir tuşa basılmasıyla birlikte gösterge ışıkları ve göstergeler tekrar yanar.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 49 (Karakter Sayısı: 716) ---
+BÖLÜM: 4.6.13 Program ilerleme durumu 
+Çalışan bir programın ilerleme durumu, Program Takip göstergesinden izlenebilir. Her bir program adımının başlangıcında, ilgili gösterge ışığı yanar ve tamamlanan adımın ışığı söner.
+Program çalışırken, program akışını durdurmadan, yardımcı fonksiyon, devir ve sıcaklık ayarlarını değiştirebilirsiniz. Bunu yapabilmeniz için yapacağınız değişikliğin çalışmakta olan program adımından sonraki bir adımda olması gerekir. Değişiklik uygun değilse ilgili ışıklar 3 kez yanıp söner.
+Eğer makine sıkma adımına geçmiyorsa, Suda Bırakma fonksiyonu etkin olabilir ya da makinedeki çamaşırların dengesiz dağılımı nedeniyle, otomatik dengesiz yük algılama sistemi devreye girmiş olabilir.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 50 (Karakter Sayısı: 634) ---
+4.6.14 Yükleme kapağı kilidi 
+Makinenin yükleme kapağında, su seviyesinin uygun olmadığı durumlarda kapağın açılmasını önleyen bir kilit sistemi bulunmaktadır.
+Makine bekleme durumuna alındığında yükleme kapağı ışığı yanıp sönmeye başlar. Makine, içindeki su seviyesini kontrol eder. Seviye uygunsa 1-2 dakika içinde Yükleme Kapağı ışığı, sabit şekilde yanmaya başlar ve yükleme kapağı açılabilir duruma gelir.
+Seviye uygun değilse Yükleme Kapağı ışığı söner ve yükleme kapağı açılamaz. Yükleme Kapağı ışığı sönükken yükleme kapağını mutlaka açmanız gerekiyorsa, mevcut programı iptal etmeniz gerekir. Bkz. “Programın iptal edilmesi.”
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 51 (Karakter Sayısı: 1168) ---
+4.6.15 Program başladıktan sonra seçimlerin değiştirilmesi 
+Makinenin bekleme durumuna alınması :
+Herhangi bir program çalışırken, Başla / Bekle tuşuna basarak makineyi bekleme durumuna alın. Program Takip göstergesinde program adımını belirten ışık, yanıp sönmeye başlayarak makinenin beklemeye alındığını belirtir.
+Ayrıca yükleme kapağı açılabilir duruma geldiğinde, program adım ışığına ek olarak Yükleme Kapağı ışığı da sürekli olarak yanar.
+Yardımcı fonksiyon, devir ve sıcaklık ayarlarının değiştirilmesi :
+Çalışmakta olan programın geldiği adıma bağlı olarak yardımcı fonksiyonları iptal edebilir veya etkinleştirebilirsiniz. Bkz. “Yardımcı fonksiyon seçimi”.
+Ayrıca devir ve sıcaklık ayarlarını da değiştirebilirsiniz. Bkz. “Devir seçimi” ve “Sıcaklık seçimi”
+Değişiklik yapılmasına izin verilmiyorsa ilgili ışık 3 kez yanıp söner.
+Çamaşır eklenmesi ve çıkarılması:
+1. Başla / Bekle tuşuna basarak makineyi bekleme durumuna alın. Makinenin bekleme durumuna alındığı adıma uygun program takip ışığı yanıp sönecektir.
+2. Yükleme kapağı açılabilir duruma gelene kadar bekleyin.
+3. Yükleme kapağını açıp çamaşırı ekleyin veya çıkartın.
+4. Yükleme kapağını kapayın.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 52 (Karakter Sayısı: 284) ---
+2. Yükleme kapağı açılabilir duruma gelene kadar bekleyin.
+3. Yükleme kapağını açıp çamaşırı ekleyin veya çıkartın.
+4. Yükleme kapağını kapayın.
+5. Gerekirse yardımcı fonksiyon, sıcaklık ve devir ayarlarındaki değişiklikleri yapın.
+6. Başla / Bekle tuşuna basarak makineyi çalıştırın.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 53 (Karakter Sayısı: 848) ---
+4.6.16 Programın iptal edilmesi 
+Programı iptal etmek için Program Seçim düğmesini çevirerek başka bir program seçin. Bir önceki program iptal olur. Bitti / İptal ışığı, sürekli yanıp sönerek programın iptal edildiğini bildirir.
+Program adımına ve makine içinde su olup olmadığına bakılmaksızın Pompa fonksiyonu
+1-2 dakika çalışır. Bu süre sonunda makine yeni seçilen programın ilk adımından itibaren çalışmaya hazır hale gelir.
+Programın iptal edildiği adıma bağlı olarak, yeni seçtiğiniz program için tekrar deterjan ve yumuşatıcı koymanız gerekebilir.
+
+4.6.17 Program sonu 
+Program sona erdiğinde ekranda “End” yazısı belirir.
+1. Yükleme kapağı ışığı sabit bir şekilde yanana kadar bekleyin.
+2. Makineyi kapamak için Açma / Kapama tuşuna basın.
+3. Çamaşırlarınızı çıkartıp yükleme kapağını kapatın. Makine bir sonraki çalışmaya hazır hale gelir.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 54 (Karakter Sayısı: 956) ---
+4.6.18 Makinenizde “Bekleme Modu” bulunmaktadır 
+Makinenizi On-Off (Açma-Kapama) tuşundan açtıktan sonra, seçim adımındayken herhangi bir program başlatılmaz ve başka bir işlem yapmadan beklenirse veya seçtiğiniz program sona erdikten sonra yaklaşık 2 dakika içerisinde herhangi başka bir işlem yapılmazsa, makineniz enerji tasarrufu moduna otomatik olarak geçecektir. Gösterge ışıklarının parlaklığı azalacaktır. Ayrıca ürününüzde program süresini gösteren bir ekran var ise, bu ekran tamamen kapanacaktır. Program düğmesini çevirmeniz veya her hangi bir tuşa dokunmanız durumunda ışıklar ve ekran eski haline dönecektir. Enerji tasarrufu modundan çıkarken yapmış olduğunuz seçimler değişebilir. Programı başlatmadan önce seçimlerinizin doğruluğunu kontrol ediniz. Gerekiyorsa, tekrar ayarlayınız. Bu bir hata değildir.
+
+
+BÖLÜM: 4.7 Bakım ve temizlik 
+Düzenli aralıklarla temizlenmesi halinde ürünün kullanım ömrü uzar ve sık karşılaşılan sorunlar azalır.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 55 (Karakter Sayısı: 845) ---
+BÖLÜM: 4.7 Bakım ve temizlik 
+Düzenli aralıklarla temizlenmesi halinde ürünün kullanım ömrü uzar ve sık karşılaşılan sorunlar azalır.
+
+4.7.1 Deterjan çekmecesinin temizlenmesi 
+Deterjan çekmecesini, zamanla içinde toz deterjan birikmesini önlemek için, aşağıda belirtildiği gibi düzenli aralıklarla (4-5 yıkamada bir) temizleyin.
+Yumuşatıcı bölmesinde normalden daha çok su ve yumuşatıcı karışımı kalmaya başlarsa sifonu da temizleyin.
+1 Yumuşatıcı gözündeki sifonun işaretli noktasına bastırarak, deterjan çekmecesini kendinize doğru çekip çıkarın.
+2 Resimdeki gibi sifonu arkasından kaldırarak çıkartınız.
+3 Çekmeceyi ve sifonu lavaboda, bol ılık suyla yıkayın. Çekmecedeki kalıntıların cildinize temasını önlemek için, temizliği eldiven ya da uygun bir fırçayla yapın.
+3 Temizledikten sonra sifonu yerine iyice oturtarak çekmeceyi geri takın.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 56 (Karakter Sayısı: 913) ---
+4.7.2 Yükleme kapağı ve kazanın temizlenmesi 
+Kazan temizleme programı bulunan ürünler için Bkz. Ürünün çalıştırılması bölümü- Programlar
+Kazan temizleme işlemini 2 ayda bir tekrarlayın.
+Çamaşır makinelerine uygun bir kireç önleyici kullanın.
+Her yıkamadan sonra makinanın içinde yabancı cisim kalıp kalmadığını kontrol edin.
+Şekilde gösterilen körükteki delikler tıkalı ise kürdan yardımıyla delikleri açın.
+Kazanın içinde, metal cisimler yüzünden pas lekeleri oluşabilir. Kazan yüzeyindeki lekeleri, paslanmaz çelik temizlik maddeleriyle temizleyin.
+Kesinlikle çelik yünü ya da bulaşık teli kullanmayın. Bunlar boyalı, krom kaplı ve plastik yüzeylere zarar verir.
+
+4.7.3 Gövde ve kontrol panelinin temizlenmesi 
+Gerektiğinde ürünün gövdesini sabunlu su ya da aşındırıcı olmayan krem deterjanlarla silin ve yumuşak bir bezle kurulayın.
+Kontrol panelini temizlemek için yalnızca yumuşak ve nemli bir bez kullanın.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 57 (Karakter Sayısı: 745) ---
+BÖLÜM: 4.7.4 Su giriş filtrelerinin temizlenmesi 
+Ürünün arkasındaki su giriş musluklarının ucunda ve su giriş hortumlarının musluğa takıldığı uçlarda birer adet filtre vardır. Bu filtreler, şebeke suyundaki yabancı maddelerin ve pisliklerin ürüne girmesini engeller. Filtrelerin kirlendikçe temizlenmesi gerekir.
+1 Muslukları kapayın.
+2 Su girişi hortumlarının somunlarını söküp, su girişi vanalarındaki filtrelerin üzerindeki tortuları uygun bir fırçayla temizleyin. Filtreler çok kirliyse penseyle yerinden çıkarıp temizleyin.
+3 Su girişi hortumlarının düz ucunda bulunan filtreleri contasıyla birlikte yerinden çıkarıp musluk altında iyice temizleyin.
+4 Conta ve filtreleri dikkatlice tekrar yerine takarak hortum somunlarını elinizle sıkın.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 58 (Karakter Sayısı: 1113) ---
+4.7.5 Kalan suyun tahliye edilmesi ve pompa filtresinin temizlenmesi 
+Üründe bulunan filtre sistemi, yıkama suyunun tahliyesi sırasında, düğme, bozuk para, kumaş lifi gibi katı maddelerin pompa pervanesine takılmasını engeller. Böylece atık su sorunsuz bir şekilde tahliye olur ve pompanın kullanım ömrü uzar.
+Ürün içindeki suyu tahliye etmiyorsa, pompa filtresi tıkanmış olabilir. Filtrenin, her tıkandığında ya da 3 ayda bir temizlenmesi gerekir. Pompa filtresini temizlemek için önce suyun tahliye edilmesi gerekmektedir.
+Ayrıca, ürün taşımadan önce de (örneğin başka bir eve taşınırken) suyun tamamen tahliye edilmesi gerekir.
+UYARI: Pompa filtresinin içinde kalan yabancı cisimler ürüne zarar verebilir ya da ses problemine neden olabilir.
+UYARI: Donma ihtimali bulunan bölgelerde ürünün kullanımda olmadığı zamanlar için musluğun kapatılması, şebeke hortumunun sökülmesi ve ürünün içindeki suyun boşaltılması gerekir.
+UYARI: Ürünün şebeke hortumunun bağlı olduğu musluğu her kullanımdan sonra kapatın.
+Kirlenen filtrenin temizlenmesi ve suyun tahliye edilmesi için:
+1. Ürünün fişini çekerek elektriği kesin.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 59 (Karakter Sayısı: 1179) ---
+UYARI: Ürünün şebeke hortumunun bağlı olduğu musluğu her kullanımdan sonra kapatın.
+Kirlenen filtrenin temizlenmesi ve suyun tahliye edilmesi için:
+1. Ürünün fişini çekerek elektriği kesin.
+UYARI: Ürünün içindeki suyun sıcaklığı 90 ºC’ye kadar çıkabilir. Yanma tehlikesinden kaçınmak için filtre temizliğini ürünün içindeki su soğuduktan sonra yapın.
+2. Filtre kapağını açın.
+3. Suyu tahliye etmek için aşağıdaki işlemleri uygulayın.
+Üründe acil su tahliye hortumu bulunmuyorsa suyu tahliye etmek için:
+a. Filtreden akacak suyu doldurmak için filtrenin önüne geniş bir kap yerleştirin.
+b. Pompa filtresini su akmaya başlayıncaya kadar (saat yönünün tersine) çevirerek gevşetin. Akan suyu, filtrenin önüne yerleştirdiğiniz kaba doldurun. Etrafa dökülebilecek suyu temizlemek için yanınızda bir bez bulundurun.
+c. Üründeki su bittiğinde pompa filtresini çevirerek tamamen çıkarın.
+4. Filtre içindeki kalıntıları ve ayrıca varsa pervane bölgesindeki lişeri temizleyin.
+5. Filtreyi yerine takın.
+6. Filtre kapağını, kapak iki parçalı ise, tırnağın bulunduğu yerden bastırarak kapayın.
+Tek parçaysa, önce alt taraftaki tırnakları yerine oturtup, sonra üst tarafını bastırarak kapayın.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 60 (Karakter Sayısı: 839) ---
+BÖLÜM: 5 Sorun Giderme
+1. Makinenin kapağını kapattıktan sonra program başlamıyor.  
+* Başla/ Bekle/ İptal düğmesine basılmamış olabilir. 
+* Aşırı yükleme durumunda kapak zor kapanabilir. 
+Çözüm Yöntemi: 
+* Başla / Bekle / İptal düğmesine basın. 
+* Çamaşır azaltarak kapağın düzgün kapandığından emin olun.
+
+2. Program başlatılamıyor veya program seçimi yapılamıyor. 
+* Altyapı kaynaklı problemler (şebeke voltajı, su basıncı vb.) nedeniyle ürün kendini korumaya almış olabilir. 
+Çözüm Yöntemi: 
+* Programı iptal etmek için Program Seçim düğmesini çevirerek başka bir program seçin. Bir önceki program iptal olur. (Bkz. “Programın iptal edilmesi”)
+
+3. Ürünün içinde su var. 
+* Üretim sırasında kalite kontrol işlemleri nedeniyle ürünün içinde bir miktar su kalmış olabilir. 
+Çözüm Yöntemi:  
+* Bu arıza değildir, suyun ürüne zararı yoktur.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 61 (Karakter Sayısı: 1022) ---
+3. Ürünün içinde su var. 
+* Üretim sırasında kalite kontrol işlemleri nedeniyle ürünün içinde bir miktar su kalmış olabilir. 
+Çözüm Yöntemi:  
+* Bu arıza değildir, suyun ürüne zararı yoktur.
+
+4. Program başladıktan sonra makine  bekleme moduna geçiyor veya makine su almıyor. 
+* Musluk kapalı olabilir. 
+* Su girişi hortumu bükülmüş olabilir. 
+* Su girişi filtresi tıkalı olabilir. 
+* Yükleme kapağı kapanmamış olabilir. 
+* Su bağlantısı doğru yapılmamış olabilir veya sular kesik olabilir (Sular kesik olduğunda yıkama yada durulama ledi yanıp söner). 
+Çözüm Yöntemi: 
+* Muslukları açın. 
+* Hortumu düzeltin. 
+* Filtreyi temizleyin. 
+* Kapağını kapayın. 
+* Su bağlantısını kontrol edin, sular kesilmiş ise bekleme moduna geçen makineyi, sular geldikten sonra Başla/Bekle tuşuna basarak kaldığı yerden devam ettirin.
+
+5. Ürün su tahliye etmiyor. 
+* Su gideri hortumu tıkanmış veya kıvrılmış olabilir. 
+* Pompa filtresi tıkanmış olabilir. 
+Çözüm Yöntemi: 
+* Hortumu temizleyin veya düzeltin. 
+* Pompa filtresini temizleyin.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 62 (Karakter Sayısı: 1081) ---
+6. Ürün titreşim veya ses yapıyor. 
+* Ürün dengesiz duruyor olabilir. 
+* Pompa filtresine sert bir cisim kaçmış olabilir. 
+* Nakliye emniyet cıvataları çıkarılmamış olabilir. 
+* Üründeki çamaşır miktarı az olabilir. 
+* Ürüne aşırı miktarda çamaşır koyulmuş olabilir. 
+* Ürün sert bir yüzeye dayanıyor olabilir. 
+Çözüm Yöntemi: 
+* Ayaklarını ayarlayarak ürünü dengeleyin. 
+* Pompa filtresini temizleyin. 
+* Nakliye emniyet cıvatalarını çıkarın. 
+* Ürüne daha çok çamaşır yükleyin. 
+* Ürünün içindeki çamaşırların bir kısmını çıkarın ya da çamaşırları elinizle düzelterek ürünün içine eşit bir şekilde dağıtın. 
+* Ürünün herhangi bir yere dayanmadığını kontrol edin.
+
+7. Ürünün altından su geliyor. 
+* Su gideri hortumu tıkanmış veya kıvrılmış olabilir. 
+* Pompa filtresi tıkanmış olabilir. 
+Çözüm Yöntemi: 
+* Hortumu temizleyin veya düzeltin. 
+* Pompa filtresini temizleyin.
+
+8. Ürün, program başladıktan bir süre sonra durdu. 
+* Voltaj düşüklüğü nedeniyle makine bir süre durmuş olabilir. 
+Çözüm Yöntemi:
+*Voltaj normal seviyeye geldiğinde ürün çalışmaya kaldığı yerden devam eder.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 63 (Karakter Sayısı: 862) ---
+9. Ürün aldığı suyu doğrudan tahliye ediyor. 
+* Tahliye hortumu yeterli yükseklikte olmayabilir. 
+Çözüm Yöntemi:  
+*Tahliye hortumunu kullanım kılavuzunda anlatıldığı gibi bağlayın.
+
+10. Yıkama sırasında üründe su görünmüyor. 
+* Su ürünün görünmeyen bölümündedir. 
+Çözüm Yöntemi: 
+* Bu bir arıza değildir.
+
+11. Yükleme kapağı açılmıyor.
+* Üründeki su seviyesinden dolayı kapak kilidi devrededir. 
+* Ürün suyu ısıtıyor ya da sıkma adımında olabilir. 
+* Kapak kilidi devrededir. Kapak kilidi program bittikten birkaç dakika sonra devreden çıkar. 
+* Ön kapağa gelen baskı sebebi ile ön kapak takılı kalabilir. 
+Çözüm Yöntemi: 
+* Pompa ya da Sıkma programını çalıştırarak suyu tahliye edin. 
+* Programın bitmesini bekleyin. 
+* Kapak kilidinin devreden çıkması için birkaç dakika bekleyin. 
+* Ön kapak tutamaktan itip çekilerek takılı konumundan kurtarılır ve açılır.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 64 (Karakter Sayısı: 891) ---
+12. Yıkama, kılavuzda belirtilenden daha uzun sürüyor. 
+* Su basıncı düşük olabilir. 
+* Voltaj düşük olabilir. 
+* Su girişi sıcaklığı düşük olabilir. 
+* Durulama sayısı ve / veya durulama suyu miktarı artmış olabilir. 
+* Fazla deterjan kullanılması nedeniyle aşırı köpük oluşmuş ve otomatik köpük sönümleme sistemi devreye girmiş olabilir. 
+Çözüm Yöntemi: 
+* Ürün, gelen su miktarının azalması nedeniyle yıkama kalitesinin düşmesini önlemek için yeterli suyu alıncaya kadar bekler. Bu nedenle yıkama süresi uzar. 
+* Voltaj düşük olduğunda yıkama kalitesinin düşmemesi için yıkama süresi uzatılır. 
+* Soğuk mevsimlerde suyun ısıtılması çin gereken süre uzar. Ayrıca, yıkama kalitesinin düşmemesi için de yıkama süresi uzatılır. 
+* Ürün, daha iyi durulama yapması gerektiğinde durulama suyu miktarını artırır ve gerekirse bir durulama adımı daha ekler. 
+*  Önerilen miktarda deterjan kullanın.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 65 (Karakter Sayısı: 847) ---
+13. Program süresi geri saymıyor. (Ekranlı modellerde) 
+* Su alırken zamanlayıcı durabilir.  
+* Isıtma adımında zamanlayıcı durabilir.  
+* Sıkma adımında zamanlayıcı durabilir. 
+Çözüm Yöntemi: 
+* Ürün, yeterince su alıncaya kadar süre göstergesi geri saymaz. Alınan su miktarı azaldığında yıkama kalitesinin düşmemesi için ürün, suyunu tamamlayana kadar bekler. Süre göstergesi daha sonra geri saymaya devam eder. 
+* Ürün, seçili sıcaklığa ulaşana kadar süre göstergesi geri saymaz. 
+* Ürünün içindeki çamaşırların dengesiz dağılmış olması nedeniyle otomatik dengesiz yük algılama sistemi devreye girmiş  olabilir.
+
+14. Program süresi geri saymıyor. 
+* Çamaşır, üründe dengesizlik yaratmış olabilir. 
+Çözüm Yöntemi: 
+* Ürünün içindeki çamaşırların dengesiz dağılmış olması nedeniyle, otomatik dengesiz yük algılama sistemi devreye girmiş olabilir.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 66 (Karakter Sayısı: 507) ---
+15. Ürün sıkma adımına geçmiyor. 
+* Çamaşır, üründe dengesizlik yaratmış olabilir. 
+* Ürün içindeki su tahliye edilemediği için sıkma yapmamış olabilir. 
+* Fazla deterjan kullanılması nedeniyle aşırı köpük oluşmuş ve otomatik köpük sönümleme sistemi devreye girmiş olabilir. 
+Çözüm Yöntemi: 
+* Ürünün içindeki çamaşırların dengesiz dağılmış olması nedeniyle, otomatik dengesiz yük algılama sistemi devreye girmiş olabilir. 
+* Filtre ve tahliye hortumunu kontrol edin. 3. Önerilen miktarda deterjan kullanın.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 67 (Karakter Sayısı: 1163) ---
+BÖLÜM: 6 Tüketici hizmetleri
+Değerli Müşterimiz, Aşağıdaki önerilere uymanızı rica Arçelik Çağrı Merkezi haftanın 7 günü 24 saat Arçelik Çağrı ederiz.
+hizmet vermektedir.
+Sabit veya cep telefonlarınızdan alan kodu Merkezi 1 Ürününüzü aldığınızda Garanti belgesini tuşlamadan çağrı merkezi numaramızı 444 0 888 Yetkili Satıcınıza onaylattırınız.
+arayarak ürününüz ile ilgili arzu ettiğiniz 2 Ürününüzü kullanma kılavuzu esaslarına hizmeti talep edebilirsiniz. göre kullanınız.
+Çağrı merkezimiz ile yaptığınız görüşmeler (Sabit telefonlardan 3 Ürününüz ile ilgili hizmet talebiniz iletişim hizmeti aldığınız operatör firma veya cep telefonlarından olduğunda yukarıdaki telefon tarafından sizin için tanımlanan tarifeye göre alan kodu çevirmeden numaralarından Çağrı Merkezimize ücretlendirilir. arayın*) başvurunuz.
+Çağrı Merkezimize ayrıca www.arcelik.com.tr adresindeki “Tüketici Hizmetleri” bölümünde 4 Hizmet için gelen teknisyene “teknisyen bulunan formu doldurarak veya 0 216 Diğer Numara kimlik kartı”nı sorunuz.
+423 23 53 nolu telefona faks çekerek de 0216 585 8 5 İşiniz bittiğinde servis teknisyeninden ulaşabilirsiniz. “Hizmet Fişi” istemeyi unutmayınız.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 68 (Karakter Sayısı: 592) ---
+423 23 53 nolu telefona faks çekerek de 0216 585 8 5 İşiniz bittiğinde servis teknisyeninden ulaşabilirsiniz. “Hizmet Fişi” istemeyi unutmayınız.
+888 Yazılı başvurular için adresimiz: alacağınız “Hizmet Fişi” , ilerde ürününüzde Arçelik Çağrı Merkezi, Arçelik A.Ş. Ankara meydana gelebilecek herhangi bir sorunda Asfaltı Yanı,34950 Tuzla/İSTANBUL size yarar sağlayacaktır.
+Yetkili servislerimizin, güncel iletişim
+6 Ürünün kullanım ömrü: 10 yıldır. (Ürünün bilgilerine www.arcelik.com.tr adresinden ulaşabilirsiniz fonksiyonunu yerine getirebilmesi için gerekli yedek parça bulundurma süresi)
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 69 (Karakter Sayısı: 1109) ---
+6 Ürünün kullanım ömrü: 10 yıldır. (Ürünün bilgilerine www.arcelik.com.tr adresinden ulaşabilirsiniz fonksiyonunu yerine getirebilmesi için gerekli yedek parça bulundurma süresi)
+Müşteri Memnuniyeti Politikası Arçelik A.Ş. olarak, hizmet verdiğimiz markamızın müşteri istek ve önerilerinin müşteri profili ayrımı yapılmaksızın her kanaldan (çağrı merkezi, e-posta, www.arcelik.com.tr, faks, mektup, sosyal medya, bayi) rahatlıkla iletilebildiği, izlenebilir, raporlanabilir, şeffaf ve güvenli tek bir bilgi havuzunda toplandığı, bu kayıtların yasal düzenlemelere uygun, objektif, adil ve gizlilik içinde ele alındığı, değerlendirildiği ve süreçlerin sürekli kontrol edilerek iyileştirildiği, mükemmel müşteri deneyimini yaşatmayı ana ilke olarak kabul etmiş müşteri odaklı bir yaklaşımı benimsemekteyiz.
+Yaklaşımımıza paralel olarak tüm süreçler yönetim sistemi ile entegre edilerek, birbirini kontrol eden bir yapı geliştirilmiş olup, yönetim hedeşeri de bu sistem üzerinden beslenmektedir.
+Hizmet talebinin değerlendirilmesi
+1 Müşteri başvurusu Web sitesi Çağrı merkezi mushiz@arcelik.com fax 0216 423 23 53
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 70 (Karakter Sayısı: 565) ---
+Hizmet talebinin değerlendirilmesi
+1 Müşteri başvurusu Web sitesi Çağrı merkezi mushiz@arcelik.com fax 0216 423 23 53
+2 Başvuru kaydı Müşteri Adı, Soyadı Müşteri Telefonu Yetkili satıcı Müşteri Adresi Çağrı merkezi
+3 Hizmet talebinin alınması
+- Hizmet talebi analizi
+- Hizmet hakkında müşterinin bilgilendirilmesi (Keşif,nakliye,montaj,bilgi,onarım,değişim vb.)
+- Hizmet hakkında gerekli işlemin gerçekleştirilmesi
+4 Randevu alınıp hizmetin gerçekleştirilmesi
+5 Müşteri memnuniyetinin alınması Memnun Memnun değil
+6 Başvuru kaydının kapatılıp, bilgilerin saklanması
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 71 (Karakter Sayısı: 1173) ---
+BÖLÜM: Kullanım Hataları ve Garanti ile İlgili Dikkat Edilmesi Gereken Hususlar
+Aşağıda belirtilen sorunların giderilmesi ücret karşılığında yapılır. Bu durumlar için garanti şartları uygulanmaz;
+1) Kullanım hatalarından kaynaklanan hasar ve arızalar,
+2) Malın tüketiciye tesliminden sonraki yükleme, boşaltma, taşıma vb. sırasında oluşan hasar ve arızalar,
+3) Malın kullanıldığı yerin elektrik, su, doğalgaz, telefon vb. şebekesi ve/veya altyapısı kaynaklı meydana gelen hasar ve arızalar,
+4) Doğa olayları ve yangın, su baskını vb. kaynaklı meydana gelen hasar ve arızalar,
+5) Malın tanıtma ve kullanma kılavuzlarında yer alan hususlara aykırı kullanılmasından kaynaklanan hasar ve arızalar,
+6) Malın, 6502 sayılı Tüketicinin Korunması Hakkındaki Kanununda tarif edilen şekli ile ticari veya mesleki amaçlarla kullanımı durumunda ortaya çıkan hasar ve arızalar, Mala yetkisiz kişiler tarafından bakım, onarım veya başka bir nedenle müdahale edilmesi durumunda mala verilmiş garanti sona erecektir.
+Garanti uygulaması sırasında değiştirilen malın garanti süresi, satın alınan malın kalan garanti süresi ile sınırlıdır.
+Arçelik A.Ş. tarafından üretilmiştir.
+Menşei: Türkiye
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 72 (Karakter Sayısı: 862) ---
+BÖLÜM: Çamaşır Makinesi GARANTİ BELGESİ
+GARANTİ ŞARTLARI
+1) Garanti süresi, malın teslim tarihinden itibaren başlar ve 3 yıldır.
+2) Mala ilişkin tanıtma ve kullanma kılavuzunda gösterildiği şekilde kullanılması ve Arçelik A.Ş.’nin yetkili kıldığı servis çalışanları dışındaki şahıslar tarafından bakım, onarım veya başka bir nedenle müdahale edilmemiş olması şartıyla, malın bütün parçaları dahil olmak üzere tamamını; malzeme, işçilik ve üretim hatalarına karşı malın teslim tarihinden itibaren yukarıda belirtilen süre kadar garanti eder.
+3) Malın ayıplı olduğunun anlaşılması durumunda tüketici, 6502 sayılı Tüketicinin Korunması Hakkında Kanunun 11 inci maddesinde yer alan; a- Sözleşmeden dönme, b- Satış bedelinden indirim isteme, c- Ücretsiz onarılmasını isteme, ç- Satılanın ayıpsız bir misli ile değiştirilmesini isteme, haklarından birini kullanabilir.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 73 (Karakter Sayısı: 989) ---
+4) Tüketicinin bu haklardan ücretsiz onarım hakkını seçmesi durumunda satıcı; işçilik masrafı, değiştirilen parça bedeli ya da başka herhangi bir ad altında hiçbir ücret talep etmeksizin malın onarımını yapmak veya yaptırmakla yükümlüdür. Tüketici ücretsiz onarım hakkını üretici veya ithalatçıya karşı da kullanabilir. Satıcı, üretici ve ithalatçı tüketicinin bu hakkını kullanmasından müteselsilen sorumludur.
+5)Tüketicinin, ücretsiz onarım hakkını kullanması halinde malın;
+- Garanti süresi içinde tekrar arızalanması,
+- Tamiri için gereken azami sürenin aşılması,
+- Tamirinin mümkün olmadığının, yetkili servis istasyonu, satıcı, üretici veya ithalatçı tarafından bir raporla belirlenmesi durumlarında; tüketici malın bedel iadesini, ayıp oranında bedel indirimini veya imkân varsa malın ayıpsız misli ile değiştirilmesini satıcıdan talep edebilir.
+Satıcı, tüketicinin talebini reddedemez. Bu talebin yerine getirilmemesi durumunda satıcı, üretici ve ithalatçı müteselsilen sorumludur.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 74 (Karakter Sayısı: 1062) ---
+Satıcı, tüketicinin talebini reddedemez. Bu talebin yerine getirilmemesi durumunda satıcı, üretici ve ithalatçı müteselsilen sorumludur.
+6) İlgili mevzuatlarda belirlenen kullanım ömrü süresince malın azami tamir süresi 20 iş gününü, geçemez. Bu süre, garanti süresi içerisinde mala ilişkin arızanın yetkili servis istasyonuna veya satıcıya bildirimi tarihinde, garanti süresi dışında ise malın yetkili servis istasyonuna teslim tarihinden itibaren başlar. Garanti kapsamı içerisindeki malın arızasının 10 iş günü içerisinde giderilememesi halinde, üretici veya ithalatçı; malın tamiri tamamlanıncaya kadar, benzer özelliklere sahip başka bir malı tüketicinin kullanımına tahsis etmek zorundadır. Benzer özelliklere sahip başka bir malın tüketici tarafından istenmemesi halinde üretici veya ithalatçılar bu yükümlülükten kurtulur. Malın garanti süresi içerisinde arızalanması durumunda, tamirde geçen süre garanti süresine eklenir.
+7) Malın kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan hasar ve arızalar garanti kapsamı dışındadır.
+
+******************** PARÇA SONU ********************
+
+--- PARÇA 75 (Karakter Sayısı: 1008) ---
+7) Malın kullanma kılavuzunda yer alan hususlara aykırı kullanılmasından kaynaklanan hasar ve arızalar garanti kapsamı dışındadır.
+8) Tüketici, garantiden doğan haklarının kullanılması ile ilgili olarak çıkabilecek uyuşmazlıklarda yerleşim yerinin bulunduğu veya tüketici işleminin yapıldığı yerdeki Tüketici Hakem Heyetine veya Tüketici Mahkemesine başvurabilir.
+9) Satıcı tarafından bu Garanti Belgesinin verilmemesi durumunda, tüketici Gümrük ve Ticaret Bakanlığı Tüketicinin Korunması ve Piyasa Gözetimi Genel Müdürlüğüne başvurabilir.
+Üretici veya İthalatçı Firmanın; Malın Unvanı: Arçelik A.Ş. Markası: Arçelik Adresi: Arçelik A.Ş. Karaağaç Caddesi No:2-6, 34445, Cinsi: Çamaşır Makinesi Sütlüce / İSTANBUL Modeli:
+Telefonu: (0-216) 585 8 888 Bandrol ve Seri No:
+Faks: (0-216) 423 23 53 Garanti Süresi: 3 YIL web adresi: www.arcelik.com.tr Azami Tamir Süresi: 20 İş günü Satıcı Firmanın:
+Unvanı: Fatura Tarih ve Sayısı:
+Adresi: Teslim Tarihi ve Yeri:
+Telefonu: Yetkilinin İmzası:
+Faks: Firmanın Kaşesi:
+
+******************** PARÇA SONU ********************
+
