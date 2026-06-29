@@ -2,9 +2,6 @@ name: ServiceBuddy CD
 
 on:
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: read
@@ -37,6 +34,7 @@ jobs:
             --exclude '.github' \
             --exclude '.venv' \
             --exclude '__pycache__' \
+            --exclude 'uploads' \
             --exclude 'modeller' \
             --exclude 'kilavuzlar.db' \
             -e "ssh -i ~/.ssh/servicebuddy_key" \
