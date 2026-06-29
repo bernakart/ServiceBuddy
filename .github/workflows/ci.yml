@@ -1,0 +1,54 @@
+name: ServiceBuddy CI
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  code-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Kodu GitHub runner'a indir
+        uses: actions/checkout@v4
+
+      - name: Python 3.11 kur
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Python sürümünü göster
+        run: python --version
+
+      - name: Python dosyalarını sözdizimi açısından kontrol et
+        run: |
+          python -m py_compile app.py
+          python -m py_compile streamlit_app.py
+          python -m py_compile embedding.py
+          python -m py_compile llm_manager.py
+          python -m py_compile memory_manager.py
+          python -m py_compile router.py
+          python -m py_compile vision_manager.py
+
+      - name: Gerekli proje dosyaları var mı kontrol et
+        run: |
+          test -f Dockerfile
+          test -f docker-compose.yml
+          test -f requirements.txt
+          test -f app.py
+          test -f streamlit_app.py
+          echo "Gerekli dosyalar mevcut."
+
+      - name: Docker Compose yapılandırmasını kontrol et
+        run: |
+          docker --version
+          docker compose version
+          docker compose -p servicebuddy config
+
+      - name: CI sonucu
+        run: echo "ServiceBuddy CI başarıyla tamamlandı."
