@@ -17,12 +17,15 @@ services:
       REDIS_HOST: redis
       REDIS_PORT: 6379
       OLLAMA_BASE_URL: http://host.docker.internal:11434
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
     volumes:
       - ./kilavuzlar.db:/app/kilavuzlar.db
       - ./modeller:/app/modeller
       - ./uploads:/app/uploads
     depends_on:
       - redis
+    restart: unless-stopped
 
   streamlit:
     build: .
@@ -34,3 +37,4 @@ services:
       API_URL: http://api:8000
     depends_on:
       - api
+    restart: unless-stopped
