@@ -1,5 +1,7 @@
-import os 
+import os
 import re
+
+from openai_manager import openai_aktif_mi, openai_yanit_uret
 from langchain_ollama import OllamaLLM
 
 
@@ -11,6 +13,56 @@ FALLBACK_CEVAP = (
 GENEL_NETLESTIRME_CEVABI = (
     "Sorunu netleştirmek için cihazda gördüğünüz belirtiyi biraz daha açık yazar mısınız?"
 )
+
+
+def model_yanit_uret(prompt, num_predict=350):
+    """
+    OPENAI_API_KEY varsa OpenAI kullanır.
+    Yoksa yerel Ollama Llama3.1 ile devam eder.
+    Böylece bulut modu ve izole mod birlikte korunur.
+    """
+    if openai_aktif_mi():
+        print("[LLM] OpenAI kullanılıyor.")
+
+        sistem_mesaji = (
+            "Sen ServiceBuddy adlı ev aletleri teknik destek asistanısın. "
+            "Sadece verilen kılavuz bilgilerine dayanarak kısa, net ve uygulanabilir Türkçe cevap ver. "
+            "Prompt içindeki kurallara kesin uy. "
+            "Kılavuzda olmayan bilgiyi kesin bilgi gibi söyleme."
+        )
+
+        return openai_yanit_uret(
+            sistem_mesaji=sistem_mesaji,
+            kullanici_mesaji=prompt
+        )
+
+    print("[LLM] Ollama kullanılıyor.")
+
+    llm = OllamaLLM(
+        model="llama3.1",
+        base_url=os.getenv("OLLAMA_BASE_URL", "http://127.0.0.1:11434"),
+        temperature=0.0,
+        top_p=0.75,
+        num_ctx=4096,
+        num_predict=num_predict,
+        repeat_penalty=1.25,
+        timeout=60
+    )
+
+    return llm.invoke(
+        prompt,
+        stop=[
+            "KULLANICI MESAJI:",
+            "KULLANICI SORUSU:",
+            "KILAVUZ BİLGİLERİ:",
+            "GEÇMİŞ SOHBET:",
+            "ASİSTAN YANITI:",
+            "ANALİZ:",
+            "İÇ SES:",
+            "CEVAP:",
+            "ASİSTAN:"
+        ]
+    )
 
 
 def secimi_coz(soru, konusma_gecmisi="", aktif_koleksiyon=None):
@@ -162,6 +214,7 @@ def secenekleri_parse_et(metin):
 
     for satir in str(metin).splitlines():
         satir = satir.strip()
+        satir = satir.replace("**", "")
 
         eslesme = re.match(r"^([1-4])[\.\)]\s*(.+)$", satir)
 
@@ -170,6 +223,7 @@ def secenekleri_parse_et(metin):
             baslik = eslesme.group(2).strip()
 
             baslik = baslik.replace(":", "").strip()
+            baslik = baslik.replace("**", "").strip()
             baslik = re.sub(r"\s+", " ", baslik)
 
             if baslik:
@@ -231,29 +285,10 @@ SEÇENEKLER:
 """.strip()
 
     try:
-        llm = OllamaLLM(
-            model="llama3.1",
-            base_url=os.getenv("OLLAMA_BASE_URL", "http://127.0.0.1:11434"),
-            temperature=0.0,
-            top_p=0.75,
-            num_ctx=4096,
-            num_predict=250,
-            repeat_penalty=1.2,
-            timeout=60
-        )
-
-        cevap = llm.invoke(
-            prompt,
-            stop=[
-                "KULLANICI SORUSU:",
-                "KILAVUZ BİLGİLERİ:",
-                "ANALİZ:",
-                "CEVAP:",
-                "ASİSTAN:"
-            ]
-        )
+        cevap = model_yanit_uret(prompt, num_predict=250)
 
         cevap = str(cevap).strip()
+        cevap = cevap.replace("**", "")
         cevap = cevap.replace("Tablo Verisi", "")
         cevap = cevap.replace("Kılavuzu oku.", "")
         cevap = re.sub(r"\n{3,}", "\n\n", cevap).strip()
@@ -284,12 +319,13 @@ SEÇENEKLER:
 
 def cevabi_temizle(cevap, soru=""):
     """
-    Llama'nın gereksiz girişlerini, prompt yankısını ve tekrarlarını temizler.
+    Modelin gereksiz girişlerini, prompt yankısını, markdown yıldızlarını ve tekrarlarını temizler.
     """
     if not cevap:
         return FALLBACK_CEVAP
 
     cevap = str(cevap).strip()
+    cevap = cevap.replace("**", "")
 
     if "ASİSTAN YANITI:" in cevap:
         cevap = cevap.split("ASİSTAN YANITI:")[-1].strip()
@@ -376,7 +412,6 @@ def cevabi_temizle(cevap, soru=""):
     cevap = cevap.replace("KILAVUZ BİLGİLERİ bölümünde", "Kılavuzda")
     cevap = cevap.replace("Bu sorunuzun çözümü için", "")
 
-    # Sadece parantez içindeki gereksiz fallback notunu temizle
     cevap = re.sub(
         r"\(\s*Kılavuzda bu işlemin nasıl yapılacağına dair detaylı bir adım bulunmamaktadır\.?\s*\)",
         "",
@@ -455,30 +490,7 @@ CEVAP:
 """.strip()
 
     try:
-        llm = OllamaLLM(
-            model="llama3.1",
-            base_url=os.getenv("OLLAMA_BASE_URL", "http://127.0.0.1:11434"),
-            temperature=0.0,
-            top_p=0.75,
-            num_ctx=4096,
-            num_predict=350,
-            repeat_penalty=1.25,
-            timeout=60
-        )
-
-        ham_cevap = llm.invoke(
-            prompt,
-            stop=[
-                "KULLANICI MESAJI:",
-                "KULLANICI SORUSU:",
-                "KILAVUZ BİLGİLERİ:",
-                "GEÇMİŞ SOHBET:",
-                "ASİSTAN YANITI:",
-                "ANALİZ:",
-                "İÇ SES:"
-            ]
-        )
-
+        ham_cevap = model_yanit_uret(prompt, num_predict=350)
         temiz_cevap = cevabi_temizle(ham_cevap, soru=soru)
 
         yield temiz_cevap

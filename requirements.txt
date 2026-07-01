@@ -15,3 +15,5 @@ easyocr
 opencv-python-headless
 pillow
 numpy
+openai
+python-dotenv
